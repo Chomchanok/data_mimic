@@ -1,0 +1,1717 @@
+subject_id,gender,icd9_code,diagnosis,distinct_disease,symptom
+10006,F,99591,SEPSIS,SEPSIS,Sepsis
+10006,F,99662,SEPSIS,HEPATITIS B,"Infection and inflammatory reaction due to other vascular device, implant, and graft"
+10006,F,40391,SEPSIS,HUMERAL FRACTURE,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease"
+10006,F,42731,SEPSIS,ALCOHOLIC HEPATITIS,Atrial fibrillation
+10006,F,4280,SEPSIS,STROKE/TIA,"Congestive heart failure, unspecified"
+10006,F,4241,SEPSIS, MITRAL REGURGITATION;CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT WITH MVR  ? MITRAL VALVE REPLACEMENT /SDA,Aortic valve disorders
+10006,F,4240,SEPSIS,SYNCOPE;TELEMETRY,Mitral valve disorders
+10006,F,3819,SEPSIS,RIGHT HUMEROUS FRACTURE,Other staphylococcal septicemia
+10006,F,7850,SEPSIS,RENAL FAILIURE-SYNCOPE-HYPERKALEMIA,"Tachycardia, unspecified"
+10006,F,E8791,SEPSIS,"RECURRENT LEFT CAROTID STENOSIS,PRE HYDRATION","Kidney dialysis as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure"
+10006,F,V090,SEPSIS,FAILURE TO THRIVE,Infection with microorganisms resistant to penicillins
+10006,F,56211,SEPSIS,PULMONARY EDEMA\CATH,Diverticulitis of colon (without mention of hemorrhage)
+10006,F,28529,SEPSIS,UNSTABLE ANGINA,Anemia of other chronic disease
+10006,F,25000,SEPSIS,RESPIRATORY DISTRESS,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+10006,F,V5867,SEPSIS,METASTATIC MELANOMA;BRAIN METASTASIS,Long-term (current) use of insulin
+10006,F,E9342,SEPSIS,FEVER,Anticoagulants causing adverse effects in therapeutic use
+10006,F,41401,SEPSIS,BRAIN METASTASES,Coronary atherosclerosis of native coronary artery
+10006,F,2749,SEPSIS,LOWER GI BLEED,"Gout, unspecified"
+10006,F,3051,SEPSIS,VARICEAL BLEED,Tobacco use disorder
+10011,F,570,HEPATITIS B,CHEST PAIN/ CATH,Acute and subacute necrosis of liver
+10011,F,7030,HEPATITIS B,SUBDURAL HEMATOMA/S/P FALL,"Viral hepatitis B without mention of hepatic coma, acute or unspecified, without mention of hepatitis delta"
+10011,F,7054,HEPATITIS B,ESOPHAGEAL CANCER/SDA,Chronic hepatitis C without mention of hepatic coma
+10011,F,30401,HEPATITIS B,S/P MOTORCYCLE ACCIDENT,"Opioid type dependence, continuous"
+10011,F,2875,HEPATITIS B,SEIZURE,"Thrombocytopenia, unspecified"
+10011,F,2760,HEPATITIS B,GASTROINTESTINAL BLEED,Hyperosmolality and/or hypernatremia
+10013,F,389,SEPSIS,LUNG CANCER;SHORTNESS OF BREATH,Unspecified septicemia
+10013,F,41071,SEPSIS,HYPOTENSION,"Subendocardial infarction, initial episode of care"
+10013,F,78551,SEPSIS,UROSEPSIS,Cardiogenic shock
+10013,F,486,SEPSIS,CONGESTIVE HEART FAILURE,"Pneumonia, organism unspecified"
+10013,F,42731,SEPSIS,SEPSIS;PNEUMONIA;TELEMETRY,Atrial fibrillation
+10013,F,20280,SEPSIS,BASAL GANGLIN BLEED,"Other malignant lymphomas, unspecified site, extranodal and solid organ sites"
+10013,F,4240,SEPSIS,OVERDOSE,Mitral valve disorders
+10013,F,2724,SEPSIS,CRITICAL AORTIC STENOSIS/HYPOTENSION,Other and unspecified hyperlipidemia
+10017,F,81201,HUMERAL FRACTURE,SEPSIS;TELEMETRY,Closed fracture of surgical neck of humerus
+10017,F,4928,HUMERAL FRACTURE,HYPOTENSION;TELEMETRY,Other emphysema
+10017,F,8028,HUMERAL FRACTURE,STATUS POST MOTOR VEHICLE ACCIDENT WITH INJURIES,Closed fracture of other facial bones
+10017,F,8024,HUMERAL FRACTURE,TACHYPNEA;TELEMETRY,Closed fracture of malar and maxillary bones
+10017,F,99812,HUMERAL FRACTURE,CHRONIC MYELOGENOUS LEUKEMIA;TRANSFUSION REACTION,Hematoma complicating a procedure
+10017,F,41511,HUMERAL FRACTURE,HYPONATREMIA;URINARY TRACT INFECTION,Iatrogenic pulmonary embolism and infarction
+10017,F,2851,HUMERAL FRACTURE,HEADACHE,Acute posthemorrhagic anemia
+10017,F,486,HUMERAL FRACTURE,VF ARREST ,"Pneumonia, organism unspecified"
+10017,F,E8859,HUMERAL FRACTURE,"PULMONARY EDEMA, MI","Fall from other slipping, tripping, or stumbling"
+10017,F,25000,HUMERAL FRACTURE,ACUTE CHOLECYSTITIS,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+10017,F,E8788,HUMERAL FRACTURE,LIVER FAILURE,"Other specified surgical operations and procedures causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation"
+10017,F,V1259,HUMERAL FRACTURE,LEFT HIP FRACTURE,Personal history of other diseases of circulatory system
+10017,F,2724,HUMERAL FRACTURE,S/P MOTOR VEHICLE ACCIDENT,Other and unspecified hyperlipidemia
+10017,F,4019,HUMERAL FRACTURE,ABSCESS,Unspecified essential hypertension
+10019,M,389,ALCOHOLIC HEPATITIS,NON SMALL CELL CANCER;HYPOXIA,Unspecified septicemia
+10019,M,51881,ALCOHOLIC HEPATITIS,SHORTNESS OF BREATH,Acute respiratory failure
+10019,M,5770,ALCOHOLIC HEPATITIS,PNEUMONIA,Acute pancreatitis
+10019,M,30390,ALCOHOLIC HEPATITIS,ACUTE CHOLANGITIS,"Other and unspecified alcohol dependence, unspecified"
+10019,M,5781,ALCOHOLIC HEPATITIS,FEVER;URINARY TRACT INFECTION,Blood in stool
+10019,M,5845,ALCOHOLIC HEPATITIS,SYNCOPE;TELEMETRY;INTRACRANIAL HEMORRHAGE,Acute kidney failure with lesion of tubular necrosis
+10019,M,5722,ALCOHOLIC HEPATITIS,LEFT HIP OA/SDA,Hepatic encephalopathy
+10019,M,78559,ALCOHOLIC HEPATITIS,MEDIASTINAL ADENOPATHY,Other shock without mention of trauma
+10019,M,99592,ALCOHOLIC HEPATITIS,AROMEGLEY;BURKITTS LYMPHOMA,Severe sepsis
+10019,M,5711,ALCOHOLIC HEPATITIS,FACIAL NUMBNESS,Acute alcoholic hepatitis
+10019,M,4019,ALCOHOLIC HEPATITIS,STEMI;,Unspecified essential hypertension
+10019,M,49390,ALCOHOLIC HEPATITIS,TRACHEAL ESOPHAGEAL FISTULA,"Asthma, unspecified type, unspecified"
+10026,F,431,STROKE/TIA,CHOLECYSTITIS,Intracerebral hemorrhage
+10026,F,4010,STROKE/TIA,CELLULITIS,Malignant essential hypertension
+10026,F,5990,STROKE/TIA,ABDOMINAL PAIN,"Urinary tract infection, site not specified"
+10026,F,2761,STROKE/TIA,ASTHMA;CHRONIC OBST PULM DISEASE,Hyposmolality and/or hyponatremia
+10026,F,V103,STROKE/TIA,ELEVATED LIVER FUNCTIONS;S/P LIVER TRANSPLANT,Personal history of malignant neoplasm of breast
+10026,F,3569,STROKE/TIA,UTI/PYELONEPHRITIS,Unspecified hereditary and idiopathic peripheral neuropathy
+10026,F,2859,STROKE/TIA,SEPSIS; UTI,"Anemia, unspecified"
+10027,F,4280, MITRAL REGURGITATION;CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT WITH MVR  ? MITRAL VALVE REPLACEMENT /SDA,HYPOTENSION;UNRESPONSIVE,"Congestive heart failure, unspecified"
+10027,F,4240, MITRAL REGURGITATION;CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT WITH MVR  ? MITRAL VALVE REPLACEMENT /SDA,URINARY TRACT INFECTION;PYELONEPHRITIS,Mitral valve disorders
+10027,F,3970, MITRAL REGURGITATION;CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT WITH MVR  ? MITRAL VALVE REPLACEMENT /SDA,S/P FALL,Diseases of tricuspid valve
+10027,F,4266, MITRAL REGURGITATION;CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT WITH MVR  ? MITRAL VALVE REPLACEMENT /SDA,TRACHEAL STENOSIS,Other heart block
+10027,F,42731, MITRAL REGURGITATION;CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT WITH MVR  ? MITRAL VALVE REPLACEMENT /SDA,INFERIOR MYOCARDIAL INFARCTION\CATH,Atrial fibrillation
+10027,F,5859, MITRAL REGURGITATION;CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT WITH MVR  ? MITRAL VALVE REPLACEMENT /SDA,HEPATIC ENCEP,"Chronic kidney disease, unspecified"
+10027,F,41401, MITRAL REGURGITATION;CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT WITH MVR  ? MITRAL VALVE REPLACEMENT /SDA,CHEST PAIN,Coronary atherosclerosis of native coronary artery
+10027,F,4019, MITRAL REGURGITATION;CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT WITH MVR  ? MITRAL VALVE REPLACEMENT /SDA,RENAL CANCER/SDA,Unspecified essential hypertension
+10027,F,25000, MITRAL REGURGITATION;CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT WITH MVR  ? MITRAL VALVE REPLACEMENT /SDA,UPPER GI BLEED,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+10027,F,2948, MITRAL REGURGITATION;CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT WITH MVR  ? MITRAL VALVE REPLACEMENT /SDA,PNEUMONIA/HYPOGLCEMIA/SYNCOPE,Other persistent mental disorders due to conditions classified elsewhere
+10027,F,5691, MITRAL REGURGITATION;CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT WITH MVR  ? MITRAL VALVE REPLACEMENT /SDA,ASTHMA/COPD FLARE,Rectal prolapse
+10027,F,79092, MITRAL REGURGITATION;CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT WITH MVR  ? MITRAL VALVE REPLACEMENT /SDA,VOLVULUS,Abnormal coagulation profile
+10029,M,380,SYNCOPE;TELEMETRY,SEIZURE;STATUS EPILEPTICUS,Streptococcal septicemia
+10029,M,99673,SYNCOPE;TELEMETRY,HYPOGLYCEMIA,"Other complications due to renal dialysis device, implant, and graft"
+10029,M,5761,SYNCOPE;TELEMETRY,CEREBROVASCULAR ACCIDENT,Cholangitis
+10029,M,57451,SYNCOPE;TELEMETRY,METASTIC MELANOMA;ANEMIA,"Calculus of bile duct without mention of cholecystitis, with obstruction"
+10029,M,42731,SYNCOPE;TELEMETRY,"HYPOTENSION, RENAL FAILURE",Atrial fibrillation
+10029,M,5856,SYNCOPE;TELEMETRY,ACUTE SUBDURAL HEMATOMA,End stage renal disease
+10029,M,5990,SYNCOPE;TELEMETRY,ESOPHAGEAL CA/SDA,"Urinary tract infection, site not specified"
+10029,M,78552,SYNCOPE;TELEMETRY,MI CHF,Septic shock
+10029,M,51882,SYNCOPE;TELEMETRY,PLEURAL EFFUSION,"Other pulmonary insufficiency, not elsewhere classified"
+10029,M,2875,SYNCOPE;TELEMETRY,ACUTE PULMONARY EMBOLISM,"Thrombocytopenia, unspecified"
+10029,M,5119,SYNCOPE;TELEMETRY,PNEUMONIA;TELEMETRY,Unspecified pleural effusion
+10029,M,40391,SYNCOPE;TELEMETRY,CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT /SDA,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease"
+10029,M,4280,SYNCOPE;TELEMETRY,PERICARDIAL EFFUSION,"Congestive heart failure, unspecified"
+10029,M,99659,SYNCOPE;TELEMETRY,ALTERED MENTAL STATUS,"Mechanical complication due to other implant and internal device, not elsewhere classified"
+10029,M,7211,SYNCOPE;TELEMETRY,ACUTE RESPIRATORY DISTRESS SYNDROME;ACUTE RENAL FAILURE,Cervical spondylosis with myelopathy
+10029,M,V1588,SYNCOPE;TELEMETRY,BRADYCARDIA,History of fall
+10029,M,2380,SYNCOPE;TELEMETRY,CHOLANGITIS,Neoplasm of uncertain behavior of bone and articular cartilage
+10029,M,2930,SYNCOPE;TELEMETRY,,Delirium due to conditions classified elsewhere
+10029,M,99592,SYNCOPE;TELEMETRY,,Severe sepsis
+10029,M,V4502,SYNCOPE;TELEMETRY,,Automatic implantable cardiac defibrillator in situ
+10029,M,V1046,SYNCOPE;TELEMETRY,,Personal history of malignant neoplasm of prostate
+10032,M,81249,RIGHT HUMEROUS FRACTURE,,Other closed fracture of lower end of humerus
+10032,M,1985,RIGHT HUMEROUS FRACTURE,,Secondary malignant neoplasm of bone and bone marrow
+10032,M,5070,RIGHT HUMEROUS FRACTURE,,Pneumonitis due to inhalation of food or vomitus
+10032,M,42830,RIGHT HUMEROUS FRACTURE,,"Diastolic heart failure, unspecified"
+10032,M,4280,RIGHT HUMEROUS FRACTURE,,"Congestive heart failure, unspecified"
+10032,M,2851,RIGHT HUMEROUS FRACTURE,,Acute posthemorrhagic anemia
+10032,M,2875,RIGHT HUMEROUS FRACTURE,,"Thrombocytopenia, unspecified"
+10032,M,5849,RIGHT HUMEROUS FRACTURE,,"Acute kidney failure, unspecified"
+10033,F,24220,RENAL FAILIURE-SYNCOPE-HYPERKALEMIA,,Toxic multinodular goiter without mention of thyrotoxic crisis or storm
+10033,F,51919,RENAL FAILIURE-SYNCOPE-HYPERKALEMIA,,Other diseases of trachea and bronchus
+10033,F,5849,RENAL FAILIURE-SYNCOPE-HYPERKALEMIA,,"Acute kidney failure, unspecified"
+10033,F,2767,RENAL FAILIURE-SYNCOPE-HYPERKALEMIA,,Hyperpotassemia
+10033,F,42731,RENAL FAILIURE-SYNCOPE-HYPERKALEMIA,,Atrial fibrillation
+10033,F,E8889,RENAL FAILIURE-SYNCOPE-HYPERKALEMIA,,Unspecified fall
+10033,F,4019,RENAL FAILIURE-SYNCOPE-HYPERKALEMIA,,Unspecified essential hypertension
+10033,F,25000,RENAL FAILIURE-SYNCOPE-HYPERKALEMIA,,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+10033,F,2720,RENAL FAILIURE-SYNCOPE-HYPERKALEMIA,,Pure hypercholesterolemia
+10033,F,311,RENAL FAILIURE-SYNCOPE-HYPERKALEMIA,,"Depressive disorder, not elsewhere classified"
+10033,F,43811,RENAL FAILIURE-SYNCOPE-HYPERKALEMIA,,"Late effects of cerebrovascular disease, aphasia"
+10033,F,53390,RENAL FAILIURE-SYNCOPE-HYPERKALEMIA,,"Peptic ulcer of unspecified site, unspecified as acute or chronic, without mention of hemorrhage or perforation, without mention of obstruction"
+10035,M,43310,"RECURRENT LEFT CAROTID STENOSIS,PRE HYDRATION",,Occlusion and stenosis of carotid artery without mention of cerebral infarction
+10035,M,2749,"RECURRENT LEFT CAROTID STENOSIS,PRE HYDRATION",,"Gout, unspecified"
+10035,M,412,"RECURRENT LEFT CAROTID STENOSIS,PRE HYDRATION",,Old myocardial infarction
+10036,F,389,SEPSIS,,Unspecified septicemia
+10036,F,78552,SEPSIS,,Septic shock
+10036,F,5070,SEPSIS,,Pneumonitis due to inhalation of food or vomitus
+10036,F,5849,SEPSIS,,"Acute kidney failure, unspecified"
+10036,F,2762,SEPSIS,,Acidosis
+10036,F,2760,SEPSIS,,Hyperosmolality and/or hypernatremia
+10036,F,99592,SEPSIS,,Severe sepsis
+10036,F,53081,SEPSIS,,Esophageal reflux
+10036,F,3310,SEPSIS,,Alzheimer's disease
+10036,F,29410,SEPSIS,,Dementia in conditions classified elsewhere without behavioral disturbance
+10036,F,725,SEPSIS,,Polymyalgia rheumatica
+10036,F,2449,SEPSIS,,Unspecified acquired hypothyroidism
+10038,F,99667,FAILURE TO THRIVE,,"Infection and inflammatory reaction due to other internal orthopedic device, implant, and graft"
+10038,F,380,FAILURE TO THRIVE,,Streptococcal septicemia
+10038,F,42731,FAILURE TO THRIVE,,Atrial fibrillation
+10038,F,4280,FAILURE TO THRIVE,,"Congestive heart failure, unspecified"
+10038,F,5849,FAILURE TO THRIVE,,"Acute kidney failure, unspecified"
+10038,F,99591,FAILURE TO THRIVE,,Sepsis
+10038,F,42830,FAILURE TO THRIVE,,"Diastolic heart failure, unspecified"
+10038,F,71105,FAILURE TO THRIVE,,"Pyogenic arthritis, pelvic region and thigh"
+10038,F,2763,FAILURE TO THRIVE,,Alkalosis
+10038,F,2875,FAILURE TO THRIVE,,"Thrombocytopenia, unspecified"
+10038,F,99677,FAILURE TO THRIVE,,Other complications due to internal joint prosthesis
+10038,F,7837,FAILURE TO THRIVE,,Adult failure to thrive
+10038,F,4019,FAILURE TO THRIVE,,Unspecified essential hypertension
+10038,F,2948,FAILURE TO THRIVE,,Other persistent mental disorders due to conditions classified elsewhere
+10038,F,45981,FAILURE TO THRIVE,,"Venous (peripheral) insufficiency, unspecified"
+10038,F,E8781,FAILURE TO THRIVE,,"Surgical operation with implant of artificial internal device causing abnormal patient reaction, or later complication,without mention of misadventure at time of operation"
+10038,F,E8498,FAILURE TO THRIVE,,Accidents occurring in other specified places
+10038,F,73300,FAILURE TO THRIVE,,"Osteoporosis, unspecified"
+10038,F,79092,FAILURE TO THRIVE,,Abnormal coagulation profile
+10038,F,4102,FAILURE TO THRIVE,,"Streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, group B"
+10040,F,40291,PULMONARY EDEMA\CATH,,Unspecified hypertensive heart disease with heart failure
+10040,F,7907,PULMONARY EDEMA\CATH,,Bacteremia
+10040,F,4928,PULMONARY EDEMA\CATH,,Other emphysema
+10040,F,51881,PULMONARY EDEMA\CATH,,Acute respiratory failure
+10040,F,4241,PULMONARY EDEMA\CATH,,Aortic valve disorders
+10040,F,4280,PULMONARY EDEMA\CATH,,"Congestive heart failure, unspecified"
+10040,F,41401,PULMONARY EDEMA\CATH,,Coronary atherosclerosis of native coronary artery
+10040,F,2809,PULMONARY EDEMA\CATH,,"Iron deficiency anemia, unspecified"
+10040,F,53081,PULMONARY EDEMA\CATH,,Esophageal reflux
+10042,M,41071,UNSTABLE ANGINA,,"Subendocardial infarction, initial episode of care"
+10042,M,9971,UNSTABLE ANGINA,,"Cardiac complications, not elsewhere classified"
+10042,M,4271,UNSTABLE ANGINA,,Paroxysmal ventricular tachycardia
+10042,M,4280,UNSTABLE ANGINA,,"Congestive heart failure, unspecified"
+10042,M,4240,UNSTABLE ANGINA,,Mitral valve disorders
+10042,M,42731,UNSTABLE ANGINA,,Atrial fibrillation
+10042,M,4160,UNSTABLE ANGINA,,Primary pulmonary hypertension
+10042,M,41401,UNSTABLE ANGINA,,Coronary atherosclerosis of native coronary artery
+10042,M,4439,UNSTABLE ANGINA,,"Peripheral vascular disease, unspecified"
+10043,M,51881,RESPIRATORY DISTRESS,,Acute respiratory failure
+10043,M,486,RESPIRATORY DISTRESS,,"Pneumonia, organism unspecified"
+10043,M,49121,RESPIRATORY DISTRESS,,Obstructive chronic bronchitis with (acute) exacerbation
+10043,M,845,RESPIRATORY DISTRESS,,Intestinal infection due to Clostridium difficile
+10043,M,2875,RESPIRATORY DISTRESS,,"Thrombocytopenia, unspecified"
+10043,M,42831,RESPIRATORY DISTRESS,,Acute diastolic heart failure
+10043,M,4280,RESPIRATORY DISTRESS,,"Congestive heart failure, unspecified"
+10043,M,28529,RESPIRATORY DISTRESS,,Anemia of other chronic disease
+10044,F,1983,METASTATIC MELANOMA;BRAIN METASTASIS,,Secondary malignant neoplasm of brain and spinal cord
+10044,F,6826,METASTATIC MELANOMA;BRAIN METASTASIS,,"Cellulitis and abscess of leg, except foot"
+10044,F,1977,METASTATIC MELANOMA;BRAIN METASTASIS,,"Malignant neoplasm of liver, secondary"
+10044,F,1970,METASTATIC MELANOMA;BRAIN METASTASIS,,Secondary malignant neoplasm of lung
+10044,F,42731,METASTATIC MELANOMA;BRAIN METASTASIS,,Atrial fibrillation
+10044,F,4019,METASTATIC MELANOMA;BRAIN METASTASIS,,Unspecified essential hypertension
+10044,F,41401,METASTATIC MELANOMA;BRAIN METASTASIS,,Coronary atherosclerosis of native coronary artery
+10044,F,5939,METASTATIC MELANOMA;BRAIN METASTASIS,,Unspecified disorder of kidney and ureter
+10044,F,28522,METASTATIC MELANOMA;BRAIN METASTASIS,,Anemia in neoplastic disease
+10045,F,383,FEVER,,Septicemia due to anaerobes
+10045,F,845,FEVER,,Intestinal infection due to Clostridium difficile
+10045,F,78552,FEVER,,Septic shock
+10045,F,44422,FEVER,,Arterial embolism and thrombosis of lower extremity
+10045,F,42731,FEVER,,Atrial fibrillation
+10045,F,2761,FEVER,,Hyposmolality and/or hyponatremia
+10045,F,5849,FEVER,,"Acute kidney failure, unspecified"
+10045,F,5990,FEVER,,"Urinary tract infection, site not specified"
+10045,F,2867,FEVER,,Acquired coagulation factor deficiency
+10045,F,56969,FEVER,,Other colostomy and enterostomy complication
+10045,F,4280,FEVER,,"Congestive heart failure, unspecified"
+10045,F,431,FEVER,,Intracerebral hemorrhage
+10045,F,99592,FEVER,,Severe sepsis
+10045,F,4471,FEVER,,Stricture of artery
+10045,F,41072,FEVER,,"Subendocardial infarction, subsequent episode of care"
+10045,F,2449,FEVER,,Unspecified acquired hypothyroidism
+10045,F,25000,FEVER,,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+10045,F,4019,FEVER,,Unspecified essential hypertension
+10045,F,41401,FEVER,,Coronary atherosclerosis of native coronary artery
+10045,F,2724,FEVER,,Other and unspecified hyperlipidemia
+10045,F,2859,FEVER,,"Anemia, unspecified"
+10045,F,1179,FEVER,,Other and unspecified mycoses
+10045,F,V446,FEVER,,Other artificial opening of urinary tract status
+10045,F,V1042,FEVER,,Personal history of malignant neoplasm of other parts of uterus
+10045,F,V153,FEVER,,"Personal history of irradiation, presenting hazards to health"
+10045,F,V1582,FEVER,,Personal history of tobacco use
+10045,F,V4582,FEVER,,Percutaneous transluminal coronary angioplasty status
+10046,F,1983,BRAIN METASTASES,,Secondary malignant neoplasm of brain and spinal cord
+10046,F,78039,BRAIN METASTASES,,Other convulsions
+10046,F,V1042,BRAIN METASTASES,,Personal history of malignant neoplasm of other parts of uterus
+10056,F,389,SEPSIS,,Unspecified septicemia
+10056,F,5990,SEPSIS,,"Urinary tract infection, site not specified"
+10056,F,5845,SEPSIS,,Acute kidney failure with lesion of tubular necrosis
+10056,F,78552,SEPSIS,,Septic shock
+10056,F,42831,SEPSIS,,Acute diastolic heart failure
+10056,F,4280,SEPSIS,,"Congestive heart failure, unspecified"
+10056,F,2761,SEPSIS,,Hyposmolality and/or hyponatremia
+10056,F,99592,SEPSIS,,Severe sepsis
+10059,M,5715,LOWER GI BLEED,,Cirrhosis of liver without mention of alcohol
+10059,M,452,LOWER GI BLEED,,Portal vein thrombosis
+10059,M,7070,LOWER GI BLEED,,Unspecified viral hepatitis C without hepatic coma
+10059,M,2800,LOWER GI BLEED,,Iron deficiency anemia secondary to blood loss (chronic)
+10059,M,45620,LOWER GI BLEED,,"Esophageal varices in diseases classified elsewhere, with bleeding"
+10059,M,389,LOWER GI BLEED,,Unspecified septicemia
+10059,M,99592,LOWER GI BLEED,,Severe sepsis
+10059,M,78552,LOWER GI BLEED,,Septic shock
+10059,M,51881,LOWER GI BLEED,,Acute respiratory failure
+10059,M,5724,LOWER GI BLEED,,Hepatorenal syndrome
+10059,M,5849,LOWER GI BLEED,,"Acute kidney failure, unspecified"
+10059,M,5859,LOWER GI BLEED,,"Chronic kidney disease, unspecified"
+10059,M,5723,LOWER GI BLEED,,Portal hypertension
+10059,M,5715,VARICEAL BLEED,,Cirrhosis of liver without mention of alcohol
+10059,M,5849,VARICEAL BLEED,,"Acute kidney failure, unspecified"
+10059,M,7070,VARICEAL BLEED,,Unspecified viral hepatitis C without hepatic coma
+10059,M,2800,VARICEAL BLEED,,Iron deficiency anemia secondary to blood loss (chronic)
+10059,M,2875,VARICEAL BLEED,,"Thrombocytopenia, unspecified"
+10059,M,45620,VARICEAL BLEED,,"Esophageal varices in diseases classified elsewhere, with bleeding"
+10059,M,5723,VARICEAL BLEED,,Portal hypertension
+10059,M,4019,VARICEAL BLEED,,Unspecified essential hypertension
+10061,F,4280,CHEST PAIN/ CATH,,"Congestive heart failure, unspecified"
+10061,F,41071,CHEST PAIN/ CATH,,"Subendocardial infarction, initial episode of care"
+10061,F,389,CHEST PAIN/ CATH,,Unspecified septicemia
+10061,F,78551,CHEST PAIN/ CATH,,Cardiogenic shock
+10061,F,78559,CHEST PAIN/ CATH,,Other shock without mention of trauma
+10061,F,51881,CHEST PAIN/ CATH,,Acute respiratory failure
+10061,F,5849,CHEST PAIN/ CATH,,"Acute kidney failure, unspecified"
+10061,F,570,CHEST PAIN/ CATH,,Acute and subacute necrosis of liver
+10061,F,48282,CHEST PAIN/ CATH,,Pneumonia due to escherichia coli [E. coli]
+10064,M,80125,SUBDURAL HEMATOMA/S/P FALL,,"Closed fracture of base of skull with subarachnoid, subdural, and extradural hemorrhage, with prolonged [more than 24 hours] loss of consciousness, without return to pre-existing conscious level"
+10064,M,8602,SUBDURAL HEMATOMA/S/P FALL,,Traumatic hemothorax without mention of open wound into thorax
+10064,M,42731,SUBDURAL HEMATOMA/S/P FALL,,Atrial fibrillation
+10064,M,E8348,SUBDURAL HEMATOMA/S/P FALL,,Other fall from one level to another in water transport injuring other specified person
+10065,F,1510,ESOPHAGEAL CANCER/SDA,,Malignant neoplasm of cardia
+10065,F,1978,ESOPHAGEAL CANCER/SDA,,Secondary malignant neoplasm of other digestive organs and spleen
+10065,F,9992,ESOPHAGEAL CANCER/SDA,,"Other vascular complications of medical care, not elsewhere classified"
+10065,F,5859,ESOPHAGEAL CANCER/SDA,,"Chronic kidney disease, unspecified"
+10065,F,1962,ESOPHAGEAL CANCER/SDA,,Secondary and unspecified malignant neoplasm of intra-abdominal lymph nodes
+10065,F,7140,ESOPHAGEAL CANCER/SDA,,Rheumatoid arthritis
+10065,F,53081,ESOPHAGEAL CANCER/SDA,,Esophageal reflux
+10065,F,2720,ESOPHAGEAL CANCER/SDA,,Pure hypercholesterolemia
+10065,F,4019,ESOPHAGEAL CANCER/SDA,,Unspecified essential hypertension
+10065,F,2749,ESOPHAGEAL CANCER/SDA,,"Gout, unspecified"
+10065,F,73300,ESOPHAGEAL CANCER/SDA,,"Osteoporosis, unspecified"
+10067,M,86404,S/P MOTORCYCLE ACCIDENT,,"Injury to liver without mention of open wound into cavity, laceration, major"
+10067,M,8504,S/P MOTORCYCLE ACCIDENT,,"Concussion with prolonged loss of consciousness, without return to pre-existing conscious level"
+10067,M,9584,S/P MOTORCYCLE ACCIDENT,,Traumatic shock
+10067,M,4275,S/P MOTORCYCLE ACCIDENT,,Cardiac arrest
+10067,M,2851,S/P MOTORCYCLE ACCIDENT,,Acute posthemorrhagic anemia
+10067,M,E8232,S/P MOTORCYCLE ACCIDENT,,Other motor vehicle nontraffic accident involving collision with stationary object injuring motorcyclist
+10067,M,86389,S/P MOTORCYCLE ACCIDENT,,"Injury to other gastrointestinal sites, without mention of open wound into cavity"
+10067,M,73689,S/P MOTORCYCLE ACCIDENT,,Other acquired deformity of other parts of limb
+10069,F,34591,SEIZURE,,"Epilepsy, unspecified, with intractable epilepsy"
+10069,F,51881,SEIZURE,,Acute respiratory failure
+10069,F,78001,SEIZURE,,Coma
+10069,F,2762,SEIZURE,,Acidosis
+10069,F,5070,SEIZURE,,Pneumonitis due to inhalation of food or vomitus
+10069,F,319,SEIZURE,,Unspecified intellectual disabilities
+10069,F,4280,SEIZURE,,"Congestive heart failure, unspecified"
+10069,F,25000,SEIZURE,,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+10074,M,56985,GASTROINTESTINAL BLEED,,Angiodysplasia of intestine with hemorrhage
+10074,M,42731,GASTROINTESTINAL BLEED,,Atrial fibrillation
+10074,M,486,GASTROINTESTINAL BLEED,,"Pneumonia, organism unspecified"
+10074,M,39891,GASTROINTESTINAL BLEED,,Rheumatic heart failure (congestive)
+10074,M,3962,GASTROINTESTINAL BLEED,,Mitral valve insufficiency and aortic valve stenosis
+10074,M,3970,GASTROINTESTINAL BLEED,,Diseases of tricuspid valve
+10074,M,5849,GASTROINTESTINAL BLEED,,"Acute kidney failure, unspecified"
+10074,M,2851,GASTROINTESTINAL BLEED,,Acute posthemorrhagic anemia
+10074,M,496,GASTROINTESTINAL BLEED,,"Chronic airway obstruction, not elsewhere classified"
+10074,M,42789,GASTROINTESTINAL BLEED,,Other specified cardiac dysrhythmias
+10074,M,V5861,GASTROINTESTINAL BLEED,,Long-term (current) use of anticoagulants
+10076,M,486,LUNG CANCER;SHORTNESS OF BREATH,,"Pneumonia, organism unspecified"
+10076,M,1985,LUNG CANCER;SHORTNESS OF BREATH,,Secondary malignant neoplasm of bone and bone marrow
+10076,M,1972,LUNG CANCER;SHORTNESS OF BREATH,,Secondary malignant neoplasm of pleura
+10076,M,5849,LUNG CANCER;SHORTNESS OF BREATH,,"Acute kidney failure, unspecified"
+10076,M,1625,LUNG CANCER;SHORTNESS OF BREATH,,"Malignant neoplasm of lower lobe, bronchus or lung"
+10076,M,1970,LUNG CANCER;SHORTNESS OF BREATH,,Secondary malignant neoplasm of lung
+10076,M,2762,LUNG CANCER;SHORTNESS OF BREATH,,Acidosis
+10076,M,389,LUNG CANCER;SHORTNESS OF BREATH,,Unspecified septicemia
+10076,M,99592,LUNG CANCER;SHORTNESS OF BREATH,,Severe sepsis
+10076,M,51881,LUNG CANCER;SHORTNESS OF BREATH,,Acute respiratory failure
+10076,M,2639,LUNG CANCER;SHORTNESS OF BREATH,,Unspecified protein-calorie malnutrition
+10076,M,2761,LUNG CANCER;SHORTNESS OF BREATH,,Hyposmolality and/or hyponatremia
+10076,M,28522,LUNG CANCER;SHORTNESS OF BREATH,,Anemia in neoplastic disease
+10076,M,78791,LUNG CANCER;SHORTNESS OF BREATH,,Diarrhea
+10076,M,E9331,LUNG CANCER;SHORTNESS OF BREATH,,Antineoplastic and immunosuppressive drugs causing adverse effects in therapeutic use
+10083,F,27739,HYPOTENSION,,Other amyloidosis
+10083,F,99662,HYPOTENSION,,"Infection and inflammatory reaction due to other vascular device, implant, and graft"
+10083,F,261,HYPOTENSION,,Nutritional marasmus
+10083,F,5990,HYPOTENSION,,"Urinary tract infection, site not specified"
+10083,F,4280,HYPOTENSION,,"Congestive heart failure, unspecified"
+10083,F,58181,HYPOTENSION,,Nephrotic syndrome in diseases classified elsewhere
+10083,F,27652,HYPOTENSION,,Hypovolemia
+10083,F,5780,HYPOTENSION,,Hematemesis
+10083,F,2762,HYPOTENSION,,Acidosis
+10083,F,2761,HYPOTENSION,,Hyposmolality and/or hyponatremia
+10083,F,7907,HYPOTENSION,,Bacteremia
+10083,F,V0980,HYPOTENSION,,Infection with microorganisms without mention of resistance to multiple drugs
+10083,F,2739,HYPOTENSION,,Unspecified disorder of plasma protein metabolism
+10083,F,45829,HYPOTENSION,,Other iatrogenic hypotension
+10083,F,311,HYPOTENSION,,"Depressive disorder, not elsewhere classified"
+10083,F,2738,HYPOTENSION,,Other disorders of plasma protein metabolism
+10083,F,4104,HYPOTENSION,,"Streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, group D [Enterococcus]"
+10083,F,53019,HYPOTENSION,,Other esophagitis
+10083,F,28529,HYPOTENSION,,Anemia of other chronic disease
+10083,F,53081,HYPOTENSION,,Esophageal reflux
+10083,F,4182,HYPOTENSION,,Bacteroides fragilis
+10088,M,389,UROSEPSIS,,Unspecified septicemia
+10088,M,99591,UROSEPSIS,,Sepsis
+10088,M,78552,UROSEPSIS,,Septic shock
+10088,M,5990,UROSEPSIS,,"Urinary tract infection, site not specified"
+10088,M,4280,UROSEPSIS,,"Congestive heart failure, unspecified"
+10088,M,V090,UROSEPSIS,,Infection with microorganisms resistant to penicillins
+10088,M,3320,UROSEPSIS,,Paralysis agitans
+10088,M,29041,UROSEPSIS,,"Vascular dementia, with delirium"
+10088,M,4370,UROSEPSIS,,Cerebral atherosclerosis
+10088,M,V441,UROSEPSIS,,Gastrostomy status
+10088,M,41400,UROSEPSIS,,"Coronary atherosclerosis of unspecified type of vessel, native or graft"
+10088,M,28529,UROSEPSIS,,Anemia of other chronic disease
+10088,M,V4582,UROSEPSIS,,Percutaneous transluminal coronary angioplasty status
+10088,M,V4581,UROSEPSIS,,Aortocoronary bypass status
+10088,M,4439,UROSEPSIS,,"Peripheral vascular disease, unspecified"
+10088,M,V1079,UROSEPSIS,,Personal history of other lymphatic and hematopoietic neoplasms
+10088,M,V1201,UROSEPSIS,,Personal history of tuberculosis
+10088,M,41071,CONGESTIVE HEART FAILURE,,"Subendocardial infarction, initial episode of care"
+10088,M,5070,CONGESTIVE HEART FAILURE,,Pneumonitis due to inhalation of food or vomitus
+10088,M,51882,CONGESTIVE HEART FAILURE,,"Other pulmonary insufficiency, not elsewhere classified"
+10088,M,4280,CONGESTIVE HEART FAILURE,,"Congestive heart failure, unspecified"
+10088,M,5849,CONGESTIVE HEART FAILURE,,"Acute kidney failure, unspecified"
+10088,M,2762,CONGESTIVE HEART FAILURE,,Acidosis
+10088,M,2760,CONGESTIVE HEART FAILURE,,Hyperosmolality and/or hypernatremia
+10088,M,20280,CONGESTIVE HEART FAILURE,,"Other malignant lymphomas, unspecified site, extranodal and solid organ sites"
+10088,M,490,CONGESTIVE HEART FAILURE,,"Bronchitis, not specified as acute or chronic"
+10088,M,4111,CONGESTIVE HEART FAILURE,,Methicillin susceptible Staphylococcus aureus in conditions classified elsewhere and of unspecified site
+10088,M,V090,CONGESTIVE HEART FAILURE,,Infection with microorganisms resistant to penicillins
+10088,M,42789,CONGESTIVE HEART FAILURE,,Other specified cardiac dysrhythmias
+10088,M,4019,CONGESTIVE HEART FAILURE,,Unspecified essential hypertension
+10088,M,3320,CONGESTIVE HEART FAILURE,,Paralysis agitans
+10088,M,29040,CONGESTIVE HEART FAILURE,,"Vascular dementia, uncomplicated"
+10088,M,4370,CONGESTIVE HEART FAILURE,,Cerebral atherosclerosis
+10088,M,44031,CONGESTIVE HEART FAILURE,,Atherosclerosis of autologous vein bypass graft of the extremities
+10088,M,56210,CONGESTIVE HEART FAILURE,,Diverticulosis of colon (without mention of hemorrhage)
+10088,M,2724,CONGESTIVE HEART FAILURE,,Other and unspecified hyperlipidemia
+10088,M,311,CONGESTIVE HEART FAILURE,,"Depressive disorder, not elsewhere classified"
+10088,M,V4581,CONGESTIVE HEART FAILURE,,Aortocoronary bypass status
+10088,M,V4582,CONGESTIVE HEART FAILURE,,Percutaneous transluminal coronary angioplasty status
+10088,M,V1201,CONGESTIVE HEART FAILURE,,Personal history of tuberculosis
+10088,M,389,SEPSIS;PNEUMONIA;TELEMETRY,,Unspecified septicemia
+10088,M,99592,SEPSIS;PNEUMONIA;TELEMETRY,,Severe sepsis
+10088,M,5990,SEPSIS;PNEUMONIA;TELEMETRY,,"Urinary tract infection, site not specified"
+10088,M,78552,SEPSIS;PNEUMONIA;TELEMETRY,,Septic shock
+10088,M,51881,SEPSIS;PNEUMONIA;TELEMETRY,,Acute respiratory failure
+10088,M,4280,SEPSIS;PNEUMONIA;TELEMETRY,,"Congestive heart failure, unspecified"
+10088,M,5781,SEPSIS;PNEUMONIA;TELEMETRY,,Blood in stool
+10088,M,V4581,SEPSIS;PNEUMONIA;TELEMETRY,,Aortocoronary bypass status
+10088,M,V4582,SEPSIS;PNEUMONIA;TELEMETRY,,Percutaneous transluminal coronary angioplasty status
+10088,M,41400,SEPSIS;PNEUMONIA;TELEMETRY,,"Coronary atherosclerosis of unspecified type of vessel, native or graft"
+10088,M,4019,SEPSIS;PNEUMONIA;TELEMETRY,,Unspecified essential hypertension
+10088,M,311,SEPSIS;PNEUMONIA;TELEMETRY,,"Depressive disorder, not elsewhere classified"
+10088,M,V1201,SEPSIS;PNEUMONIA;TELEMETRY,,Personal history of tuberculosis
+10088,M,4439,SEPSIS;PNEUMONIA;TELEMETRY,,"Peripheral vascular disease, unspecified"
+10088,M,2859,SEPSIS;PNEUMONIA;TELEMETRY,,"Anemia, unspecified"
+10089,M,431,BASAL GANGLIN BLEED,,Intracerebral hemorrhage
+10089,M,5070,BASAL GANGLIN BLEED,,Pneumonitis due to inhalation of food or vomitus
+10089,M,4019,BASAL GANGLIN BLEED,,Unspecified essential hypertension
+10089,M,V4581,BASAL GANGLIN BLEED,,Aortocoronary bypass status
+10089,M,41400,BASAL GANGLIN BLEED,,"Coronary atherosclerosis of unspecified type of vessel, native or graft"
+10090,M,9693,OVERDOSE,,"Poisoning by other antipsychotics, neuroleptics, and major tranquilizers"
+10090,M,2851,OVERDOSE,,Acute posthemorrhagic anemia
+10090,M,29633,OVERDOSE,,"Major depressive affective disorder, recurrent episode, severe, without mention of psychotic behavior"
+10090,M,9680,OVERDOSE,,Poisoning by central nervous system muscle-tone depressants
+10090,M,9694,OVERDOSE,,Poisoning by benzodiazepine-based tranquilizers
+10090,M,E9503,OVERDOSE,,Suicide and self-inflicted poisoning by tranquilizers and other psychotropic agents
+10090,M,E9504,OVERDOSE,,Suicide and self-inflicted poisoning by other specified drugs and medicinal substances
+10093,M,41071,CRITICAL AORTIC STENOSIS/HYPOTENSION,,"Subendocardial infarction, initial episode of care"
+10093,M,5789,CRITICAL AORTIC STENOSIS/HYPOTENSION,,"Hemorrhage of gastrointestinal tract, unspecified"
+10093,M,4241,CRITICAL AORTIC STENOSIS/HYPOTENSION,,Aortic valve disorders
+10093,M,78559,CRITICAL AORTIC STENOSIS/HYPOTENSION,,Other shock without mention of trauma
+10093,M,27651,CRITICAL AORTIC STENOSIS/HYPOTENSION,,Dehydration
+10093,M,2639,CRITICAL AORTIC STENOSIS/HYPOTENSION,,Unspecified protein-calorie malnutrition
+10093,M,5849,CRITICAL AORTIC STENOSIS/HYPOTENSION,,"Acute kidney failure, unspecified"
+10093,M,4019,CRITICAL AORTIC STENOSIS/HYPOTENSION,,Unspecified essential hypertension
+10093,M,4439,CRITICAL AORTIC STENOSIS/HYPOTENSION,,"Peripheral vascular disease, unspecified"
+10093,M,41401,CRITICAL AORTIC STENOSIS/HYPOTENSION,,Coronary atherosclerosis of native coronary artery
+10094,M,389,SEPSIS;TELEMETRY,,Unspecified septicemia
+10094,M,5070,SEPSIS;TELEMETRY,,Pneumonitis due to inhalation of food or vomitus
+10094,M,4280,SEPSIS;TELEMETRY,,"Congestive heart failure, unspecified"
+10094,M,845,SEPSIS;TELEMETRY,,Intestinal infection due to Clostridium difficile
+10094,M,2760,SEPSIS;TELEMETRY,,Hyperosmolality and/or hypernatremia
+10094,M,99592,SEPSIS;TELEMETRY,,Severe sepsis
+10094,M,25000,SEPSIS;TELEMETRY,,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+10094,M,2449,SEPSIS;TELEMETRY,,Unspecified acquired hypothyroidism
+10094,M,2273,HYPOTENSION;TELEMETRY,,Benign neoplasm of pituitary gland and craniopharyngeal duct
+10094,M,486,HYPOTENSION;TELEMETRY,,"Pneumonia, organism unspecified"
+10094,M,5849,HYPOTENSION;TELEMETRY,,"Acute kidney failure, unspecified"
+10094,M,2532,HYPOTENSION;TELEMETRY,,Panhypopituitarism
+10094,M,3970,HYPOTENSION;TELEMETRY,,Diseases of tricuspid valve
+10094,M,4280,HYPOTENSION;TELEMETRY,,"Congestive heart failure, unspecified"
+10094,M,2760,HYPOTENSION;TELEMETRY,,Hyperosmolality and/or hypernatremia
+10094,M,70706,HYPOTENSION;TELEMETRY,,"Pressure ulcer, ankle"
+10094,M,25000,HYPOTENSION;TELEMETRY,,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+10094,M,2948,HYPOTENSION;TELEMETRY,,Other persistent mental disorders due to conditions classified elsewhere
+10094,M,2449,HYPOTENSION;TELEMETRY,,Unspecified acquired hypothyroidism
+10098,F,80375,STATUS POST MOTOR VEHICLE ACCIDENT WITH INJURIES,,"Other open skull fracture with subarachnoid, subdural, and extradural hemorrhage, with prolonged [more than 24 hours] loss of consciousness, without return to pre-existing conscious level"
+10098,F,4271,STATUS POST MOTOR VEHICLE ACCIDENT WITH INJURIES,,Paroxysmal ventricular tachycardia
+10098,F,E8120,STATUS POST MOTOR VEHICLE ACCIDENT WITH INJURIES,,Other motor vehicle traffic accident involving collision with motor vehicle injuring driver of motor vehicle other than motorcycle
+10098,F,E8495,STATUS POST MOTOR VEHICLE ACCIDENT WITH INJURIES,,Street and highway accidents
+10098,F,87349,STATUS POST MOTOR VEHICLE ACCIDENT WITH INJURIES,,"Open wound of other and multiple sites of face, without mention of complication"
+10101,M,1628,TACHYPNEA;TELEMETRY,,Malignant neoplasm of other parts of bronchus or lung
+10101,M,1970,TACHYPNEA;TELEMETRY,,Secondary malignant neoplasm of lung
+10101,M,1977,TACHYPNEA;TELEMETRY,,"Malignant neoplasm of liver, secondary"
+10101,M,1987,TACHYPNEA;TELEMETRY,,Secondary malignant neoplasm of adrenal gland
+10101,M,1980,TACHYPNEA;TELEMETRY,,Secondary malignant neoplasm of kidney
+10101,M,1976,TACHYPNEA;TELEMETRY,,Secondary malignant neoplasm of retroperitoneum and peritoneum
+10101,M,19889,TACHYPNEA;TELEMETRY,,Secondary malignant neoplasm of other specified sites
+10102,M,20510,CHRONIC MYELOGENOUS LEUKEMIA;TRANSFUSION REACTION,,"Chronic myeloid leukemia, without mention of having achieved remission"
+10102,M,5180,CHRONIC MYELOGENOUS LEUKEMIA;TRANSFUSION REACTION,,Pulmonary collapse
+10102,M,5119,CHRONIC MYELOGENOUS LEUKEMIA;TRANSFUSION REACTION,,Unspecified pleural effusion
+10102,M,845,CHRONIC MYELOGENOUS LEUKEMIA;TRANSFUSION REACTION,,Intestinal infection due to Clostridium difficile
+10102,M,2761,CHRONIC MYELOGENOUS LEUKEMIA;TRANSFUSION REACTION,,Hyposmolality and/or hyponatremia
+10102,M,2762,CHRONIC MYELOGENOUS LEUKEMIA;TRANSFUSION REACTION,,Acidosis
+10102,M,70703,CHRONIC MYELOGENOUS LEUKEMIA;TRANSFUSION REACTION,,"Pressure ulcer, lower back"
+10102,M,5789,CHRONIC MYELOGENOUS LEUKEMIA;TRANSFUSION REACTION,,"Hemorrhage of gastrointestinal tract, unspecified"
+10102,M,2800,CHRONIC MYELOGENOUS LEUKEMIA;TRANSFUSION REACTION,,Iron deficiency anemia secondary to blood loss (chronic)
+10102,M,7850,CHRONIC MYELOGENOUS LEUKEMIA;TRANSFUSION REACTION,,"Tachycardia, unspecified"
+10102,M,79092,CHRONIC MYELOGENOUS LEUKEMIA;TRANSFUSION REACTION,,Abnormal coagulation profile
+10102,M,28959,CHRONIC MYELOGENOUS LEUKEMIA;TRANSFUSION REACTION,,Other diseases of spleen
+10104,F,5990,HYPONATREMIA;URINARY TRACT INFECTION,,"Urinary tract infection, site not specified"
+10104,F,2761,HYPONATREMIA;URINARY TRACT INFECTION,,Hyposmolality and/or hyponatremia
+10104,F,78039,HYPONATREMIA;URINARY TRACT INFECTION,,Other convulsions
+10104,F,2555,HYPONATREMIA;URINARY TRACT INFECTION,,Other adrenal hypofunction
+10104,F,2720,HYPONATREMIA;URINARY TRACT INFECTION,,Pure hypercholesterolemia
+10104,F,4019,HYPONATREMIA;URINARY TRACT INFECTION,,Unspecified essential hypertension
+10104,F,49390,HYPONATREMIA;URINARY TRACT INFECTION,,"Asthma, unspecified type, unspecified"
+10104,F,73300,HYPONATREMIA;URINARY TRACT INFECTION,,"Osteoporosis, unspecified"
+10106,M,543,HEADACHE,,Herpetic meningoencephalitis
+10106,M,30390,HEADACHE,,"Other and unspecified alcohol dependence, unspecified"
+10106,M,49390,HEADACHE,,"Asthma, unspecified type, unspecified"
+10106,M,4019,HEADACHE,,Unspecified essential hypertension
+10106,M,25000,HEADACHE,,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+10111,F,4280,CONGESTIVE HEART FAILURE,,"Congestive heart failure, unspecified"
+10111,F,51881,CONGESTIVE HEART FAILURE,,Acute respiratory failure
+10111,F,42781,CONGESTIVE HEART FAILURE,,Sinoatrial node dysfunction
+10111,F,496,CONGESTIVE HEART FAILURE,,"Chronic airway obstruction, not elsewhere classified"
+10111,F,42731,CONGESTIVE HEART FAILURE,,Atrial fibrillation
+10111,F,4241,CONGESTIVE HEART FAILURE,,Aortic valve disorders
+10111,F,5849,CONGESTIVE HEART FAILURE,,"Acute kidney failure, unspecified"
+10111,F,25000,CONGESTIVE HEART FAILURE,,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+10111,F,78057,CONGESTIVE HEART FAILURE,,Unspecified sleep apnea
+10112,F,42741,VF ARREST ,,Ventricular fibrillation
+10112,F,51881,VF ARREST ,,Acute respiratory failure
+10112,F,3481,VF ARREST ,,Anoxic brain damage
+10112,F,78003,VF ARREST ,,Persistent vegetative state
+10112,F,53081,VF ARREST ,,Esophageal reflux
+10112,F,2967,VF ARREST ,,"Bipolar I disorder, most recent episode (or current) unspecified"
+10112,F,2449,VF ARREST ,,Unspecified acquired hypothyroidism
+10112,F,3320,VF ARREST ,,Paralysis agitans
+10112,F,56210,VF ARREST ,,Diverticulosis of colon (without mention of hemorrhage)
+10114,F,4280,"PULMONARY EDEMA, MI",,"Congestive heart failure, unspecified"
+10114,F,4240,"PULMONARY EDEMA, MI",,Mitral valve disorders
+10114,F,4111,"PULMONARY EDEMA, MI",,Intermediate coronary syndrome
+10114,F,2859,"PULMONARY EDEMA, MI",,"Anemia, unspecified"
+10114,F,4928,"PULMONARY EDEMA, MI",,Other emphysema
+10114,F,29281,"PULMONARY EDEMA, MI",,Drug-induced delirium
+10114,F,E9394,"PULMONARY EDEMA, MI",,Benzodiazepine-based tranquilizers causing adverse effects in therapeutic use
+10114,F,25000,"PULMONARY EDEMA, MI",,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+10114,F,5939,"PULMONARY EDEMA, MI",,Unspecified disorder of kidney and ureter
+10117,F,486,FEVER,,"Pneumonia, organism unspecified"
+10117,F,99662,FEVER,,"Infection and inflammatory reaction due to other vascular device, implant, and graft"
+10117,F,7907,FEVER,,Bacteremia
+10117,F,51881,FEVER,,Acute respiratory failure
+10117,F,20300,FEVER,,"Multiple myeloma, without mention of having achieved remission"
+10117,F,1120,FEVER,,Candidiasis of mouth
+10117,F,V4281,FEVER,,Bone marrow replaced by transplant
+10117,F,5290,FEVER,,Glossitis
+10117,F,7907,FEVER,,Bacteremia
+10117,F,2762,FEVER,,Acidosis
+10117,F,20300,FEVER,,"Multiple myeloma, without mention of having achieved remission"
+10117,F,2875,FEVER,,"Thrombocytopenia, unspecified"
+10119,M,5750,ACUTE CHOLECYSTITIS,,Acute cholecystitis
+10119,M,5754,ACUTE CHOLECYSTITIS,,Perforation of gallbladder
+10119,M,42731,ACUTE CHOLECYSTITIS,,Atrial fibrillation
+10119,M,7907,ACUTE CHOLECYSTITIS,,Bacteremia
+10119,M,5770,ACUTE CHOLECYSTITIS,,Acute pancreatitis
+10119,M,5849,ACUTE CHOLECYSTITIS,,"Acute kidney failure, unspecified"
+10119,M,34982,ACUTE CHOLECYSTITIS,,Toxic encephalopathy
+10119,M,V5861,ACUTE CHOLECYSTITIS,,Long-term (current) use of anticoagulants
+10119,M,4019,ACUTE CHOLECYSTITIS,,Unspecified essential hypertension
+10119,M,53240,GASTROINTESTINAL BLEED,,"Chronic or unspecified duodenal ulcer with hemorrhage, without mention of obstruction"
+10119,M,42731,GASTROINTESTINAL BLEED,,Atrial fibrillation
+10119,M,53140,GASTROINTESTINAL BLEED,,"Chronic or unspecified gastric ulcer with hemorrhage, without mention of obstruction"
+10119,M,412,GASTROINTESTINAL BLEED,,Old myocardial infarction
+10119,M,4019,GASTROINTESTINAL BLEED,,Unspecified essential hypertension
+10120,M,570,LIVER FAILURE,,Acute and subacute necrosis of liver
+10120,M,5849,LIVER FAILURE,,"Acute kidney failure, unspecified"
+10120,M,51881,LIVER FAILURE,,Acute respiratory failure
+10120,M,3453,LIVER FAILURE,,Grand mal status
+10120,M,2866,LIVER FAILURE,,Defibrination syndrome
+10120,M,2762,LIVER FAILURE,,Acidosis
+10120,M,389,LIVER FAILURE,,Unspecified septicemia
+10120,M,99592,LIVER FAILURE,,Severe sepsis
+10120,M,3485,LIVER FAILURE,,Cerebral edema
+10120,M,34831,LIVER FAILURE,,Metabolic encephalopathy
+10120,M,V1259,LIVER FAILURE,,Personal history of other diseases of circulatory system
+10120,M,V667,LIVER FAILURE,,Encounter for palliative care
+10120,M,E9361,LIVER FAILURE,,Hydantoin derivatives causing adverse effects in therapeutic use
+10124,F,51884,CONGESTIVE HEART FAILURE,,Acute and chronic respiratory failure
+10124,F,42833,CONGESTIVE HEART FAILURE,,Acute on chronic diastolic heart failure
+10124,F,40391,CONGESTIVE HEART FAILURE,,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease"
+10124,F,42731,CONGESTIVE HEART FAILURE,,Atrial fibrillation
+10124,F,5845,CONGESTIVE HEART FAILURE,,Acute kidney failure with lesion of tubular necrosis
+10124,F,2767,CONGESTIVE HEART FAILURE,,Hyperpotassemia
+10124,F,486,CONGESTIVE HEART FAILURE,,"Pneumonia, organism unspecified"
+10124,F,25092,CONGESTIVE HEART FAILURE,,"Diabetes with unspecified complication, type II or unspecified type, uncontrolled"
+10124,F,3811,CONGESTIVE HEART FAILURE,,Methicillin susceptible Staphylococcus aureus septicemia
+10124,F,70705,CONGESTIVE HEART FAILURE,,"Pressure ulcer, buttock"
+10124,F,5990,CONGESTIVE HEART FAILURE,,"Urinary tract infection, site not specified"
+10124,F,99591,CONGESTIVE HEART FAILURE,,Sepsis
+10124,F,4168,CONGESTIVE HEART FAILURE,,Other chronic pulmonary heart diseases
+10124,F,32723,CONGESTIVE HEART FAILURE,,Obstructive sleep apnea (adult)(pediatric)
+10124,F,27800,CONGESTIVE HEART FAILURE,,"Obesity, unspecified"
+10124,F,V5413,CONGESTIVE HEART FAILURE,,Aftercare for healing traumatic fracture of hip
+10124,F,V1251,CONGESTIVE HEART FAILURE,,Personal history of venous thrombosis and embolism
+10124,F,56400,CONGESTIVE HEART FAILURE,,"Constipation, unspecified"
+10124,F,82021,LEFT HIP FRACTURE,,Closed fracture of intertrochanteric section of neck of femur
+10124,F,42832,LEFT HIP FRACTURE,,Chronic diastolic heart failure
+10124,F,4280,LEFT HIP FRACTURE,,"Congestive heart failure, unspecified"
+10124,F,5990,LEFT HIP FRACTURE,,"Urinary tract infection, site not specified"
+10124,F,2851,LEFT HIP FRACTURE,,Acute posthemorrhagic anemia
+10124,F,42731,LEFT HIP FRACTURE,,Atrial fibrillation
+10124,F,5859,LEFT HIP FRACTURE,,"Chronic kidney disease, unspecified"
+10124,F,99811,LEFT HIP FRACTURE,,Hemorrhage complicating a procedure
+10124,F,5849,LEFT HIP FRACTURE,,"Acute kidney failure, unspecified"
+10124,F,E8859,LEFT HIP FRACTURE,,"Fall from other slipping, tripping, or stumbling"
+10124,F,2449,LEFT HIP FRACTURE,,Unspecified acquired hypothyroidism
+10124,F,25000,LEFT HIP FRACTURE,,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+10124,F,4414,LEFT HIP FRACTURE,,Abdominal aneurysm without mention of rupture
+10124,F,73300,LEFT HIP FRACTURE,,"Osteoporosis, unspecified"
+10124,F,40390,LEFT HIP FRACTURE,,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+10124,F,E8788,LEFT HIP FRACTURE,,"Other specified surgical operations and procedures causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation"
+10126,F,570,LIVER FAILURE,,Acute and subacute necrosis of liver
+10126,F,99682,LIVER FAILURE,,Complications of transplanted liver
+10126,F,5712,LIVER FAILURE,,Alcoholic cirrhosis of liver
+10126,F,2867,LIVER FAILURE,,Acquired coagulation factor deficiency
+10126,F,7032,LIVER FAILURE,,Chronic viral hepatitis B without mention of hepatic coma without mention of hepatitis delta
+10126,F,5845,LIVER FAILURE,,Acute kidney failure with lesion of tubular necrosis
+10126,F,4168,LIVER FAILURE,,Other chronic pulmonary heart diseases
+10126,F,28959,LIVER FAILURE,,Other diseases of spleen
+10126,F,5750,LIVER FAILURE,,Acute cholecystitis
+10126,F,5121,LIVER FAILURE,,Iatrogenic pneumothorax
+10126,F,56881,LIVER FAILURE,,Hemoperitoneum (nontraumatic)
+10126,F,4280,LIVER FAILURE,,"Congestive heart failure, unspecified"
+10126,F,5762,LIVER FAILURE,,Obstruction of bile duct
+10127,F,80601,S/P MOTOR VEHICLE ACCIDENT,,Closed fracture of C1-C4 level with complete lesion of cord
+10127,F,82101,S/P MOTOR VEHICLE ACCIDENT,,Closed fracture of shaft of femur
+10127,F,486,S/P MOTOR VEHICLE ACCIDENT,,"Pneumonia, organism unspecified"
+10127,F,80102,S/P MOTOR VEHICLE ACCIDENT,,"Closed fracture of base of skull without mention of intra cranial injury, with brief [less than one hour] loss of consciousness"
+10127,F,99813,S/P MOTOR VEHICLE ACCIDENT,,Seroma complicating a procedure
+10127,F,34401,S/P MOTOR VEHICLE ACCIDENT,,"Quadriplegia, C1-C4, complete"
+10127,F,E8231,S/P MOTOR VEHICLE ACCIDENT,,Other motor vehicle nontraffic accident involving collision with stationary object injuring passenger in motor vehicle other than motorcycle
+10127,F,3361,S/P MOTOR VEHICLE ACCIDENT,,Vascular myelopathies
+10127,F,8730,S/P MOTOR VEHICLE ACCIDENT,,"Open wound of scalp, without mention of complication"
+10127,F,42789,S/P MOTOR VEHICLE ACCIDENT,,Other specified cardiac dysrhythmias
+10127,F,8020,S/P MOTOR VEHICLE ACCIDENT,,Closed fracture of nasal bones
+10127,F,1122,S/P MOTOR VEHICLE ACCIDENT,,Candidiasis of other urogenital sites
+10127,F,37950,S/P MOTOR VEHICLE ACCIDENT,,"Nystagmus, unspecified"
+10130,M,56981,ABSCESS,,"Fistula of intestine, excluding rectum and anus"
+10130,M,389,ABSCESS,,Unspecified septicemia
+10130,M,2761,ABSCESS,,Hyposmolality and/or hyponatremia
+10130,M,1977,ABSCESS,,"Malignant neoplasm of liver, secondary"
+10130,M,1976,ABSCESS,,Secondary malignant neoplasm of retroperitoneum and peritoneum
+10130,M,261,ABSCESS,,Nutritional marasmus
+10130,M,V1005,ABSCESS,,Personal history of malignant neoplasm of large intestine
+10130,M,25000,ABSCESS,,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+10132,F,1124,NON SMALL CELL CANCER;HYPOXIA,,Candidiasis of lung
+10132,F,41519,NON SMALL CELL CANCER;HYPOXIA,,Other pulmonary embolism and infarction
+10132,F,389,NON SMALL CELL CANCER;HYPOXIA,,Unspecified septicemia
+10132,F,99591,NON SMALL CELL CANCER;HYPOXIA,,Sepsis
+10132,F,1983,NON SMALL CELL CANCER;HYPOXIA,,Secondary malignant neoplasm of brain and spinal cord
+10132,F,41071,NON SMALL CELL CANCER;HYPOXIA,,"Subendocardial infarction, initial episode of care"
+10132,F,5121,NON SMALL CELL CANCER;HYPOXIA,,Iatrogenic pneumothorax
+10132,F,1622,NON SMALL CELL CANCER;HYPOXIA,,Malignant neoplasm of main bronchus
+10132,F,V1042,NON SMALL CELL CANCER;HYPOXIA,,Personal history of malignant neoplasm of other parts of uterus
+40124,F,486,SHORTNESS OF BREATH,,"Pneumonia, organism unspecified"
+40124,F,5849,SHORTNESS OF BREATH,,"Acute kidney failure, unspecified"
+40124,F,1628,SHORTNESS OF BREATH,,Malignant neoplasm of other parts of bronchus or lung
+40124,F,27651,SHORTNESS OF BREATH,,Dehydration
+40124,F,2859,SHORTNESS OF BREATH,,"Anemia, unspecified"
+40124,F,496,SHORTNESS OF BREATH,,"Chronic airway obstruction, not elsewhere classified"
+40124,F,4019,SHORTNESS OF BREATH,,Unspecified essential hypertension
+40124,F,486,PNEUMONIA,,"Pneumonia, organism unspecified"
+40124,F,51881,PNEUMONIA,,Acute respiratory failure
+40124,F,5849,PNEUMONIA,,"Acute kidney failure, unspecified"
+40124,F,1628,PNEUMONIA,,Malignant neoplasm of other parts of bronchus or lung
+40124,F,496,PNEUMONIA,,"Chronic airway obstruction, not elsewhere classified"
+40124,F,2859,PNEUMONIA,,"Anemia, unspecified"
+40124,F,7821,PNEUMONIA,,Rash and other nonspecific skin eruption
+40177,M,5761,ACUTE CHOLANGITIS,,Cholangitis
+40177,M,5849,ACUTE CHOLANGITIS,,"Acute kidney failure, unspecified"
+40177,M,5770,ACUTE CHOLANGITIS,,Acute pancreatitis
+40177,M,57471,ACUTE CHOLANGITIS,,"Calculus of gallbladder and bile duct with other cholecystitis, with obstruction"
+40177,M,5180,ACUTE CHOLANGITIS,,Pulmonary collapse
+40177,M,5119,ACUTE CHOLANGITIS,,Unspecified pleural effusion
+40177,M,2762,ACUTE CHOLANGITIS,,Acidosis
+40177,M,570,ACUTE CHOLANGITIS,,Acute and subacute necrosis of liver
+40177,M,389,ACUTE CHOLANGITIS,,Unspecified septicemia
+40177,M,99592,ACUTE CHOLANGITIS,,Severe sepsis
+40177,M,2851,ACUTE CHOLANGITIS,,Acute posthemorrhagic anemia
+40177,M,41071,ACUTE CHOLANGITIS,,"Subendocardial infarction, initial episode of care"
+40177,M,27651,ACUTE CHOLANGITIS,,Dehydration
+40177,M,2767,ACUTE CHOLANGITIS,,Hyperpotassemia
+40177,M,3659,ACUTE CHOLANGITIS,,Unspecified glaucoma
+40177,M,2724,ACUTE CHOLANGITIS,,Other and unspecified hyperlipidemia
+40177,M,4019,ACUTE CHOLANGITIS,,Unspecified essential hypertension
+40177,M,V4581,ACUTE CHOLANGITIS,,Aortocoronary bypass status
+40177,M,41400,ACUTE CHOLANGITIS,,"Coronary atherosclerosis of unspecified type of vessel, native or graft"
+40204,M,5990,FEVER;URINARY TRACT INFECTION,,"Urinary tract infection, site not specified"
+40204,M,486,FEVER;URINARY TRACT INFECTION,,"Pneumonia, organism unspecified"
+40204,M,42822,FEVER;URINARY TRACT INFECTION,,Chronic systolic heart failure
+40204,M,40391,FEVER;URINARY TRACT INFECTION,,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease"
+40204,M,5856,FEVER;URINARY TRACT INFECTION,,End stage renal disease
+40204,M,58881,FEVER;URINARY TRACT INFECTION,,Secondary hyperparathyroidism (of renal origin)
+40204,M,78009,FEVER;URINARY TRACT INFECTION,,Other alteration of consciousness
+40204,M,4280,FEVER;URINARY TRACT INFECTION,,"Congestive heart failure, unspecified"
+40204,M,V4511,FEVER;URINARY TRACT INFECTION,,Renal dialysis status
+40204,M,25000,FEVER;URINARY TRACT INFECTION,,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+40204,M,41401,FEVER;URINARY TRACT INFECTION,,Coronary atherosclerosis of native coronary artery
+40204,M,496,FEVER;URINARY TRACT INFECTION,,"Chronic airway obstruction, not elsewhere classified"
+40204,M,71946,FEVER;URINARY TRACT INFECTION,,"Pain in joint, lower leg"
+40204,M,V0254,FEVER;URINARY TRACT INFECTION,,Carrier or suspected carrier of Methicillin resistant Staphylococcus aureus
+40277,F,85206,SYNCOPE;TELEMETRY;INTRACRANIAL HEMORRHAGE,,"Subarachnoid hemorrhage following injury without mention of open intracranial wound, with loss of consciousness of unspecified duration"
+40277,F,2761,SYNCOPE;TELEMETRY;INTRACRANIAL HEMORRHAGE,,Hyposmolality and/or hyponatremia
+40277,F,85306,SYNCOPE;TELEMETRY;INTRACRANIAL HEMORRHAGE,,"Other and unspecified intracranial hemorrhage following injury without mention of open intracranial wound, with loss of consciousness of unspecified duration"
+40277,F,E8889,SYNCOPE;TELEMETRY;INTRACRANIAL HEMORRHAGE,,Unspecified fall
+40277,F,496,SYNCOPE;TELEMETRY;INTRACRANIAL HEMORRHAGE,,"Chronic airway obstruction, not elsewhere classified"
+40277,F,2768,SYNCOPE;TELEMETRY;INTRACRANIAL HEMORRHAGE,,Hypopotassemia
+40277,F,7861,SYNCOPE;TELEMETRY;INTRACRANIAL HEMORRHAGE,,Stridor
+40277,F,4019,SYNCOPE;TELEMETRY;INTRACRANIAL HEMORRHAGE,,Unspecified essential hypertension
+40277,F,30000,SYNCOPE;TELEMETRY;INTRACRANIAL HEMORRHAGE,,"Anxiety state, unspecified"
+40277,F,V1302,SYNCOPE;TELEMETRY;INTRACRANIAL HEMORRHAGE,,"Personal history, urinary (tract) infection"
+40286,F,71615,LEFT HIP OA/SDA,,"Traumatic arthropathy, pelvic region and thigh"
+40286,F,2851,LEFT HIP OA/SDA,,Acute posthemorrhagic anemia
+40286,F,2930,LEFT HIP OA/SDA,,Delirium due to conditions classified elsewhere
+40286,F,4019,LEFT HIP OA/SDA,,Unspecified essential hypertension
+40286,F,42731,LEFT HIP OA/SDA,,Atrial fibrillation
+40286,F,2449,LEFT HIP OA/SDA,,Unspecified acquired hypothyroidism
+40286,F,45829,LEFT HIP OA/SDA,,Other iatrogenic hypotension
+40286,F,E9352,LEFT HIP OA/SDA,,Other opiates and related narcotics causing adverse effects in therapeutic use
+40286,F,78603,LEFT HIP OA/SDA,,Apnea
+40286,F,2768,LEFT HIP OA/SDA,,Hypopotassemia
+40304,M,1961,MEDIASTINAL ADENOPATHY,,Secondary and unspecified malignant neoplasm of intrathoracic lymph nodes
+40304,M,5849,MEDIASTINAL ADENOPATHY,,"Acute kidney failure, unspecified"
+40304,M,42833,MEDIASTINAL ADENOPATHY,,Acute on chronic diastolic heart failure
+40304,M,486,MEDIASTINAL ADENOPATHY,,"Pneumonia, organism unspecified"
+40304,M,5180,MEDIASTINAL ADENOPATHY,,Pulmonary collapse
+40304,M,2760,MEDIASTINAL ADENOPATHY,,Hyperosmolality and/or hypernatremia
+40304,M,9341,MEDIASTINAL ADENOPATHY,,Foreign body in main bronchus
+40304,M,20280,MEDIASTINAL ADENOPATHY,,"Other malignant lymphomas, unspecified site, extranodal and solid organ sites"
+40304,M,4280,MEDIASTINAL ADENOPATHY,,"Congestive heart failure, unspecified"
+40304,M,42731,MEDIASTINAL ADENOPATHY,,Atrial fibrillation
+40304,M,5859,MEDIASTINAL ADENOPATHY,,"Chronic kidney disease, unspecified"
+40304,M,28521,MEDIASTINAL ADENOPATHY,,Anemia in chronic kidney disease
+40304,M,4439,MEDIASTINAL ADENOPATHY,,"Peripheral vascular disease, unspecified"
+40304,M,4241,MEDIASTINAL ADENOPATHY,,Aortic valve disorders
+40304,M,2749,MEDIASTINAL ADENOPATHY,,"Gout, unspecified"
+40304,M,32723,MEDIASTINAL ADENOPATHY,,Obstructive sleep apnea (adult)(pediatric)
+40304,M,V5861,MEDIASTINAL ADENOPATHY,,Long-term (current) use of anticoagulants
+40304,M,V1011,MEDIASTINAL ADENOPATHY,,Personal history of malignant neoplasm of bronchus and lung
+40310,M,20280,AROMEGLEY;BURKITTS LYMPHOMA,,"Other malignant lymphomas, unspecified site, extranodal and solid organ sites"
+40310,M,70724,AROMEGLEY;BURKITTS LYMPHOMA,,"Pressure ulcer, stage IV"
+40310,M,51881,AROMEGLEY;BURKITTS LYMPHOMA,,Acute respiratory failure
+40310,M,48241,AROMEGLEY;BURKITTS LYMPHOMA,,Methicillin susceptible pneumonia due to Staphylococcus aureus
+40310,M,4271,AROMEGLEY;BURKITTS LYMPHOMA,,Paroxysmal ventricular tachycardia
+40310,M,20020,AROMEGLEY;BURKITTS LYMPHOMA,,"Burkitt's tumor or lymphoma, unspecified site, extranodal and solid organ sites"
+40310,M,70703,AROMEGLEY;BURKITTS LYMPHOMA,,"Pressure ulcer, lower back"
+40310,M,2530,AROMEGLEY;BURKITTS LYMPHOMA,,Acromegaly and gigantism
+40310,M,V8741,AROMEGLEY;BURKITTS LYMPHOMA,,Personal history of antineoplastic chemotherapy
+40310,M,2273,AROMEGLEY;BURKITTS LYMPHOMA,,Benign neoplasm of pituitary gland and craniopharyngeal duct
+40310,M,56409,AROMEGLEY;BURKITTS LYMPHOMA,,Other constipation
+40310,M,6930,AROMEGLEY;BURKITTS LYMPHOMA,,Dermatitis due to drugs and medicines taken internally
+40310,M,2753,AROMEGLEY;BURKITTS LYMPHOMA,,Disorders of phosphorus metabolism
+40310,M,7868,AROMEGLEY;BURKITTS LYMPHOMA,,Hiccough
+40310,M,V1204,AROMEGLEY;BURKITTS LYMPHOMA,,Personal history of Methicillin resistant Staphylococcus aureus
+40310,M,V1251,AROMEGLEY;BURKITTS LYMPHOMA,,Personal history of venous thrombosis and embolism
+40310,M,E9308,AROMEGLEY;BURKITTS LYMPHOMA,,Other specified antibiotics causing adverse effects in therapeutic use
+40310,M,20020,FACIAL NUMBNESS,,"Burkitt's tumor or lymphoma, unspecified site, extranodal and solid organ sites"
+40310,M,51881,FACIAL NUMBNESS,,Acute respiratory failure
+40310,M,27788,FACIAL NUMBNESS,,Tumor lysis syndrome
+40310,M,5845,FACIAL NUMBNESS,,Acute kidney failure with lesion of tubular necrosis
+40310,M,48242,FACIAL NUMBNESS,,Methicillin resistant pneumonia due to Staphylococcus aureus
+40310,M,70724,FACIAL NUMBNESS,,"Pressure ulcer, stage IV"
+40310,M,28489,FACIAL NUMBNESS,,Other specified aplastic anemias
+40310,M,4830,FACIAL NUMBNESS,,Pneumonia due to mycoplasma pneumoniae
+40310,M,45341,FACIAL NUMBNESS,,Acute venous embolism and thrombosis of deep vessels of proximal lower extremity
+40310,M,5121,FACIAL NUMBNESS,,Iatrogenic pneumothorax
+40310,M,2764,FACIAL NUMBNESS,,Mixed acid-base balance disorder
+40310,M,5180,FACIAL NUMBNESS,,Pulmonary collapse
+40310,M,45381,FACIAL NUMBNESS,,Acute venous embolism and thrombosis of superficial veins of upper extremity
+40310,M,35782,FACIAL NUMBNESS,,Critical illness polyneuropathy
+40310,M,2530,FACIAL NUMBNESS,,Acromegaly and gigantism
+40310,M,2273,FACIAL NUMBNESS,,Benign neoplasm of pituitary gland and craniopharyngeal duct
+40310,M,70703,FACIAL NUMBNESS,,"Pressure ulcer, lower back"
+40310,M,28800,FACIAL NUMBNESS,,"Neutropenia, unspecified"
+40310,M,37000,FACIAL NUMBNESS,,"Corneal ulcer, unspecified"
+40310,M,78820,FACIAL NUMBNESS,,"Retention of urine, unspecified"
+40310,M,4940,FACIAL NUMBNESS,,Bronchiectasis without acute exacerbation
+40310,M,3510,FACIAL NUMBNESS,,Bell's palsy
+40310,M,27542,FACIAL NUMBNESS,,Hypercalcemia
+40310,M,6039,FACIAL NUMBNESS,,"Hydrocele, unspecified"
+40310,M,60490,FACIAL NUMBNESS,,"Orchitis and epididymitis, unspecified"
+40310,M,2767,FACIAL NUMBNESS,,Hyperpotassemia
+40310,M,2753,FACIAL NUMBNESS,,Disorders of phosphorus metabolism
+40310,M,71589,FACIAL NUMBNESS,,"Osteoarthrosis involving, or with mention of more than one site, but not specified as generalized, multiple sites"
+40310,M,7850,FACIAL NUMBNESS,,"Tachycardia, unspecified"
+40310,M,52801,FACIAL NUMBNESS,,Mucositis (ulcerative) due to antineoplastic therapy
+40310,M,28803,FACIAL NUMBNESS,,Drug induced neutropenia
+40310,M,E9331,FACIAL NUMBNESS,,Antineoplastic and immunosuppressive drugs causing adverse effects in therapeutic use
+40310,M,V600,FACIAL NUMBNESS,,Lack of housing
+40310,M,56409,FACIAL NUMBNESS,,Other constipation
+40310,M,E8781,FACIAL NUMBNESS,,"Surgical operation with implant of artificial internal device causing abnormal patient reaction, or later complication,without mention of misadventure at time of operation"
+40310,M,45829,FACIAL NUMBNESS,,Other iatrogenic hypotension
+40456,F,42823,PNEUMONIA,,Acute on chronic systolic heart failure
+40456,F,4280,PNEUMONIA,,"Congestive heart failure, unspecified"
+40456,F,4240,PNEUMONIA,,Mitral valve disorders
+40456,F,42789,PNEUMONIA,,Other specified cardiac dysrhythmias
+40456,F,41401,PNEUMONIA,,Coronary atherosclerosis of native coronary artery
+40456,F,2859,PNEUMONIA,,"Anemia, unspecified"
+40456,F,V1251,PNEUMONIA,,Personal history of venous thrombosis and embolism
+40456,F,V5861,PNEUMONIA,,Long-term (current) use of anticoagulants
+40456,F,2811,PNEUMONIA,,Other vitamin B12 deficiency anemia
+40503,F,41071,STEMI;,,"Subendocardial infarction, initial episode of care"
+40503,F,42821,STEMI;,,Acute systolic heart failure
+40503,F,2761,STEMI;,,Hyposmolality and/or hyponatremia
+40503,F,78551,STEMI;,,Cardiogenic shock
+40503,F,4280,STEMI;,,"Congestive heart failure, unspecified"
+40503,F,42731,STEMI;,,Atrial fibrillation
+40503,F,25000,STEMI;,,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+40503,F,7213,STEMI;,,Lumbosacral spondylosis without myelopathy
+40503,F,2721,STEMI;,,Pure hyperglyceridemia
+40503,F,4019,STEMI;,,Unspecified essential hypertension
+40503,F,73730,STEMI;,,"Scoliosis [and kyphoscoliosis], idiopathic"
+40503,F,725,STEMI;,,Polymyalgia rheumatica
+40503,F,41401,STEMI;,,Coronary atherosclerosis of native coronary artery
+40503,F,4240,STEMI;,,Mitral valve disorders
+40595,F,53084,TRACHEAL ESOPHAGEAL FISTULA,,Tracheoesophageal fistula
+40595,F,51881,TRACHEAL ESOPHAGEAL FISTULA,,Acute respiratory failure
+40595,F,99659,TRACHEAL ESOPHAGEAL FISTULA,,"Mechanical complication due to other implant and internal device, not elsewhere classified"
+40595,F,1629,TRACHEAL ESOPHAGEAL FISTULA,,"Malignant neoplasm of bronchus and lung, unspecified"
+40595,F,5119,TRACHEAL ESOPHAGEAL FISTULA,,Unspecified pleural effusion
+40595,F,5180,TRACHEAL ESOPHAGEAL FISTULA,,Pulmonary collapse
+40595,F,42732,TRACHEAL ESOPHAGEAL FISTULA,,Atrial flutter
+40595,F,845,TRACHEAL ESOPHAGEAL FISTULA,,Intestinal infection due to Clostridium difficile
+40595,F,99731,TRACHEAL ESOPHAGEAL FISTULA,,Ventilator associated pneumonia
+40595,F,48242,TRACHEAL ESOPHAGEAL FISTULA,,Methicillin resistant pneumonia due to Staphylococcus aureus
+40595,F,51919,TRACHEAL ESOPHAGEAL FISTULA,,Other diseases of trachea and bronchus
+40595,F,E8781,TRACHEAL ESOPHAGEAL FISTULA,,"Surgical operation with implant of artificial internal device causing abnormal patient reaction, or later complication,without mention of misadventure at time of operation"
+40595,F,53089,TRACHEAL ESOPHAGEAL FISTULA,,Other specified disorders of esophagus
+40595,F,42731,TRACHEAL ESOPHAGEAL FISTULA,,Atrial fibrillation
+40595,F,4011,TRACHEAL ESOPHAGEAL FISTULA,,Benign essential hypertension
+40595,F,V103,TRACHEAL ESOPHAGEAL FISTULA,,Personal history of malignant neoplasm of breast
+40595,F,V0254,TRACHEAL ESOPHAGEAL FISTULA,,Carrier or suspected carrier of Methicillin resistant Staphylococcus aureus
+40595,F,78724,TRACHEAL ESOPHAGEAL FISTULA,,"Dysphagia, pharyngoesophageal phase"
+40595,F,4240,TRACHEAL ESOPHAGEAL FISTULA,,Mitral valve disorders
+40595,F,2859,TRACHEAL ESOPHAGEAL FISTULA,,"Anemia, unspecified"
+40595,F,79029,TRACHEAL ESOPHAGEAL FISTULA,,Other abnormal glucose
+40595,F,V5861,TRACHEAL ESOPHAGEAL FISTULA,,Long-term (current) use of anticoagulants
+40595,F,V8741,TRACHEAL ESOPHAGEAL FISTULA,,Personal history of antineoplastic chemotherapy
+40595,F,V153,TRACHEAL ESOPHAGEAL FISTULA,,"Personal history of irradiation, presenting hazards to health"
+40601,F,41001,SEPSIS,,"Acute myocardial infarction of anterolateral wall, initial episode of care"
+40601,F,42821,SEPSIS,,Acute systolic heart failure
+40601,F,78551,SEPSIS,,Cardiogenic shock
+40601,F,5990,SEPSIS,,"Urinary tract infection, site not specified"
+40601,F,4280,SEPSIS,,"Congestive heart failure, unspecified"
+40601,F,41401,SEPSIS,,Coronary atherosclerosis of native coronary artery
+40601,F,4019,SEPSIS,,Unspecified essential hypertension
+40601,F,27801,SEPSIS,,Morbid obesity
+40601,F,49390,SEPSIS,,"Asthma, unspecified type, unspecified"
+40601,F,42731,SEPSIS,,Atrial fibrillation
+40601,F,2724,SEPSIS,,Other and unspecified hyperlipidemia
+40612,F,5750,CHOLECYSTITIS,,Acute cholecystitis
+40612,F,389,CHOLECYSTITIS,,Unspecified septicemia
+40612,F,99591,CHOLECYSTITIS,,Sepsis
+40612,F,5601,CHOLECYSTITIS,,Paralytic ileus
+40612,F,4280,CHOLECYSTITIS,,"Congestive heart failure, unspecified"
+40612,F,496,CHOLECYSTITIS,,"Chronic airway obstruction, not elsewhere classified"
+40612,F,34590,CHOLECYSTITIS,,"Epilepsy, unspecified, without mention of intractable epilepsy"
+40612,F,2948,CHOLECYSTITIS,,Other persistent mental disorders due to conditions classified elsewhere
+40612,F,33385,CHOLECYSTITIS,,Subacute dyskinesia due to drugs
+40612,F,E9479,CHOLECYSTITIS,,Unspecified drug or medicinal substance causing adverse effects in therapeutic use
+40612,F,29570,CHOLECYSTITIS,,"Schizoaffective disorder, unspecified"
+40655,F,388,CELLULITIS,,Other specified septicemias
+40655,F,5849,CELLULITIS,,"Acute kidney failure, unspecified"
+40655,F,6826,CELLULITIS,,"Cellulitis and abscess of leg, except foot"
+40655,F,5854,CELLULITIS,,"Chronic kidney disease, Stage IV (severe)"
+40655,F,53551,CELLULITIS,,"Unspecified gastritis and gastroduodenitis, with hemorrhage"
+40655,F,42822,CELLULITIS,,Chronic systolic heart failure
+40655,F,70714,CELLULITIS,,Ulcer of heel and midfoot
+40655,F,99591,CELLULITIS,,Sepsis
+40655,F,40390,CELLULITIS,,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+40655,F,42781,CELLULITIS,,Sinoatrial node dysfunction
+40655,F,4280,CELLULITIS,,"Congestive heart failure, unspecified"
+40655,F,41400,CELLULITIS,,"Coronary atherosclerosis of unspecified type of vessel, native or graft"
+40655,F,25002,CELLULITIS,,"Diabetes mellitus without mention of complication, type II or unspecified type, uncontrolled"
+40655,F,45981,CELLULITIS,,"Venous (peripheral) insufficiency, unspecified"
+40655,F,2768,CELLULITIS,,Hypopotassemia
+40655,F,2724,CELLULITIS,,Other and unspecified hyperlipidemia
+40655,F,28529,CELLULITIS,,Anemia of other chronic disease
+40655,F,V4581,CELLULITIS,,Aortocoronary bypass status
+40687,F,51881,ABDOMINAL PAIN,,Acute respiratory failure
+40687,F,486,ABDOMINAL PAIN,,"Pneumonia, organism unspecified"
+40687,F,2760,ABDOMINAL PAIN,,Hyperosmolality and/or hypernatremia
+40687,F,45340,ABDOMINAL PAIN,,Acute venous embolism and thrombosis of unspecified deep vessels of lower extremity
+40687,F,1985,ABDOMINAL PAIN,,Secondary malignant neoplasm of bone and bone marrow
+40687,F,1970,ABDOMINAL PAIN,,Secondary malignant neoplasm of lung
+40687,F,1972,ABDOMINAL PAIN,,Secondary malignant neoplasm of pleura
+40687,F,1976,ABDOMINAL PAIN,,Secondary malignant neoplasm of retroperitoneum and peritoneum
+40687,F,1961,ABDOMINAL PAIN,,Secondary and unspecified malignant neoplasm of intrathoracic lymph nodes
+40687,F,1965,ABDOMINAL PAIN,,Secondary and unspecified malignant neoplasm of lymph nodes of inguinal region and lower limb
+40687,F,E9331,ABDOMINAL PAIN,,Antineoplastic and immunosuppressive drugs causing adverse effects in therapeutic use
+40687,F,4019,ABDOMINAL PAIN,,Unspecified essential hypertension
+40687,F,2720,ABDOMINAL PAIN,,Pure hypercholesterolemia
+40687,F,V103,ABDOMINAL PAIN,,Personal history of malignant neoplasm of breast
+41795,M,51881,ASTHMA;CHRONIC OBST PULM DISEASE,,Acute respiratory failure
+41795,M,49121,ASTHMA;CHRONIC OBST PULM DISEASE,,Obstructive chronic bronchitis with (acute) exacerbation
+41795,M,42832,ASTHMA;CHRONIC OBST PULM DISEASE,,Chronic diastolic heart failure
+41795,M,29562,ASTHMA;CHRONIC OBST PULM DISEASE,,"Schizophrenic disorders, residual type, chronic"
+41795,M,70712,ASTHMA;CHRONIC OBST PULM DISEASE,,Ulcer of calf
+41795,M,4280,ASTHMA;CHRONIC OBST PULM DISEASE,,"Congestive heart failure, unspecified"
+41795,M,4240,ASTHMA;CHRONIC OBST PULM DISEASE,,Mitral valve disorders
+41795,M,42731,ASTHMA;CHRONIC OBST PULM DISEASE,,Atrial fibrillation
+41795,M,27801,ASTHMA;CHRONIC OBST PULM DISEASE,,Morbid obesity
+41795,M,45981,ASTHMA;CHRONIC OBST PULM DISEASE,,"Venous (peripheral) insufficiency, unspecified"
+41795,M,2875,ASTHMA;CHRONIC OBST PULM DISEASE,,"Thrombocytopenia, unspecified"
+41795,M,4168,ASTHMA;CHRONIC OBST PULM DISEASE,,Other chronic pulmonary heart diseases
+41795,M,32723,ASTHMA;CHRONIC OBST PULM DISEASE,,Obstructive sleep apnea (adult)(pediatric)
+41795,M,V433,ASTHMA;CHRONIC OBST PULM DISEASE,,Heart valve replaced by other means
+41795,M,V5867,ASTHMA;CHRONIC OBST PULM DISEASE,,Long-term (current) use of insulin
+41795,M,2768,ASTHMA;CHRONIC OBST PULM DISEASE,,Hypopotassemia
+41795,M,25002,ASTHMA;CHRONIC OBST PULM DISEASE,,"Diabetes mellitus without mention of complication, type II or unspecified type, uncontrolled"
+41795,M,51881,ASTHMA;CHRONIC OBST PULM DISEASE,,Acute respiratory failure
+41795,M,49121,ASTHMA;CHRONIC OBST PULM DISEASE,,Obstructive chronic bronchitis with (acute) exacerbation
+41795,M,42833,ASTHMA;CHRONIC OBST PULM DISEASE,,Acute on chronic diastolic heart failure
+41795,M,486,ASTHMA;CHRONIC OBST PULM DISEASE,,"Pneumonia, organism unspecified"
+41795,M,2761,ASTHMA;CHRONIC OBST PULM DISEASE,,Hyposmolality and/or hyponatremia
+41795,M,29562,ASTHMA;CHRONIC OBST PULM DISEASE,,"Schizophrenic disorders, residual type, chronic"
+41795,M,2762,ASTHMA;CHRONIC OBST PULM DISEASE,,Acidosis
+41795,M,4280,ASTHMA;CHRONIC OBST PULM DISEASE,,"Congestive heart failure, unspecified"
+41795,M,45829,ASTHMA;CHRONIC OBST PULM DISEASE,,Other iatrogenic hypotension
+41795,M,25000,ASTHMA;CHRONIC OBST PULM DISEASE,,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+41795,M,4019,ASTHMA;CHRONIC OBST PULM DISEASE,,Unspecified essential hypertension
+41795,M,V433,ASTHMA;CHRONIC OBST PULM DISEASE,,Heart valve replaced by other means
+41795,M,V4581,ASTHMA;CHRONIC OBST PULM DISEASE,,Aortocoronary bypass status
+41795,M,3051,ASTHMA;CHRONIC OBST PULM DISEASE,,Tobacco use disorder
+41795,M,V5867,ASTHMA;CHRONIC OBST PULM DISEASE,,Long-term (current) use of insulin
+41795,M,45981,ASTHMA;CHRONIC OBST PULM DISEASE,,"Venous (peripheral) insufficiency, unspecified"
+41795,M,32723,ASTHMA;CHRONIC OBST PULM DISEASE,,Obstructive sleep apnea (adult)(pediatric)
+41795,M,79092,ASTHMA;CHRONIC OBST PULM DISEASE,,Abnormal coagulation profile
+41795,M,E9342,ASTHMA;CHRONIC OBST PULM DISEASE,,Anticoagulants causing adverse effects in therapeutic use
+41795,M,V5861,ASTHMA;CHRONIC OBST PULM DISEASE,,Long-term (current) use of anticoagulants
+41795,M,27801,ASTHMA;CHRONIC OBST PULM DISEASE,,Morbid obesity
+41914,M,99731,ELEVATED LIVER FUNCTIONS;S/P LIVER TRANSPLANT,,Ventilator associated pneumonia
+41914,M,51884,ELEVATED LIVER FUNCTIONS;S/P LIVER TRANSPLANT,,Acute and chronic respiratory failure
+41914,M,5180,ELEVATED LIVER FUNCTIONS;S/P LIVER TRANSPLANT,,Pulmonary collapse
+41914,M,5119,ELEVATED LIVER FUNCTIONS;S/P LIVER TRANSPLANT,,Unspecified pleural effusion
+41914,M,V4611,ELEVATED LIVER FUNCTIONS;S/P LIVER TRANSPLANT,,"Dependence on respirator, status"
+41914,M,5849,ELEVATED LIVER FUNCTIONS;S/P LIVER TRANSPLANT,,"Acute kidney failure, unspecified"
+41914,M,3481,ELEVATED LIVER FUNCTIONS;S/P LIVER TRANSPLANT,,Anoxic brain damage
+41914,M,99682,ELEVATED LIVER FUNCTIONS;S/P LIVER TRANSPLANT,,Complications of transplanted liver
+41914,M,99592,ELEVATED LIVER FUNCTIONS;S/P LIVER TRANSPLANT,,Severe sepsis
+41914,M,3843,ELEVATED LIVER FUNCTIONS;S/P LIVER TRANSPLANT,,Septicemia due to pseudomonas
+41914,M,3849,ELEVATED LIVER FUNCTIONS;S/P LIVER TRANSPLANT,,Other septicemia due to gram-negative organisms
+41914,M,V551,ELEVATED LIVER FUNCTIONS;S/P LIVER TRANSPLANT,,Attention to gastrostomy
+41914,M,4239,ELEVATED LIVER FUNCTIONS;S/P LIVER TRANSPLANT,,Unspecified disease of pericardium
+41914,M,490,ELEVATED LIVER FUNCTIONS;S/P LIVER TRANSPLANT,,"Bronchitis, not specified as acute or chronic"
+41914,M,70707,ELEVATED LIVER FUNCTIONS;S/P LIVER TRANSPLANT,,"Pressure ulcer, heel"
+41914,M,70720,ELEVATED LIVER FUNCTIONS;S/P LIVER TRANSPLANT,,"Pressure ulcer, unspecified stage"
+41914,M,70705,ELEVATED LIVER FUNCTIONS;S/P LIVER TRANSPLANT,,"Pressure ulcer, buttock"
+41914,M,70722,ELEVATED LIVER FUNCTIONS;S/P LIVER TRANSPLANT,,"Pressure ulcer, stage II"
+41914,M,30390,ELEVATED LIVER FUNCTIONS;S/P LIVER TRANSPLANT,,"Other and unspecified alcohol dependence, unspecified"
+41914,M,5728,ELEVATED LIVER FUNCTIONS;S/P LIVER TRANSPLANT,,Other sequelae of chronic liver disease
+41914,M,2859,ELEVATED LIVER FUNCTIONS;S/P LIVER TRANSPLANT,,"Anemia, unspecified"
+41914,M,4739,ELEVATED LIVER FUNCTIONS;S/P LIVER TRANSPLANT,,Unspecified sinusitis (chronic)
+41914,M,4019,ELEVATED LIVER FUNCTIONS;S/P LIVER TRANSPLANT,,Unspecified essential hypertension
+41914,M,2724,ELEVATED LIVER FUNCTIONS;S/P LIVER TRANSPLANT,,Other and unspecified hyperlipidemia
+41914,M,25000,ELEVATED LIVER FUNCTIONS;S/P LIVER TRANSPLANT,,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+41914,M,V5867,ELEVATED LIVER FUNCTIONS;S/P LIVER TRANSPLANT,,Long-term (current) use of insulin
+41914,M,V550,ELEVATED LIVER FUNCTIONS;S/P LIVER TRANSPLANT,,Attention to tracheostomy
+41914,M,V5419,ELEVATED LIVER FUNCTIONS;S/P LIVER TRANSPLANT,,Aftercare for healing traumatic fracture of other bone
+41914,M,V5411,ELEVATED LIVER FUNCTIONS;S/P LIVER TRANSPLANT,,Aftercare for healing traumatic fracture of upper arm
+41914,M,E9290,ELEVATED LIVER FUNCTIONS;S/P LIVER TRANSPLANT,,Late effects of motor vehicle accident
+41914,M,V1582,ELEVATED LIVER FUNCTIONS;S/P LIVER TRANSPLANT,,Personal history of tobacco use
+41976,M,3849,SEPSIS,,Other septicemia due to gram-negative organisms
+41976,M,78552,SEPSIS,,Septic shock
+41976,M,5849,SEPSIS,,"Acute kidney failure, unspecified"
+41976,M,5990,SEPSIS,,"Urinary tract infection, site not specified"
+41976,M,2760,SEPSIS,,Hyperosmolality and/or hypernatremia
+41976,M,99592,SEPSIS,,Severe sepsis
+41976,M,78820,SEPSIS,,"Retention of urine, unspecified"
+41976,M,70703,SEPSIS,,"Pressure ulcer, lower back"
+41976,M,70720,SEPSIS,,"Pressure ulcer, unspecified stage"
+41976,M,4019,SEPSIS,,Unspecified essential hypertension
+41976,M,2449,SEPSIS,,Unspecified acquired hypothyroidism
+41976,M,25060,SEPSIS,,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+41976,M,3572,SEPSIS,,Polyneuropathy in diabetes
+41976,M,2724,SEPSIS,,Other and unspecified hyperlipidemia
+41976,M,2859,SEPSIS,,"Anemia, unspecified"
+41976,M,311,SEPSIS,,"Depressive disorder, not elsewhere classified"
+41976,M,42731,SEPSIS,,Atrial fibrillation
+41976,M,V5861,SEPSIS,,Long-term (current) use of anticoagulants
+41976,M,V1254,SEPSIS,,"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits"
+41976,M,V440,SEPSIS,,Tracheostomy status
+41976,M,53081,SEPSIS,,Esophageal reflux
+41976,M,389,PNEUMONIA,,Unspecified septicemia
+41976,M,5070,PNEUMONIA,,Pneumonitis due to inhalation of food or vomitus
+41976,M,51881,PNEUMONIA,,Acute respiratory failure
+41976,M,5849,PNEUMONIA,,"Acute kidney failure, unspecified"
+41976,M,99592,PNEUMONIA,,Severe sepsis
+41976,M,4019,PNEUMONIA,,Unspecified essential hypertension
+41976,M,25000,PNEUMONIA,,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+41976,M,2449,PNEUMONIA,,Unspecified acquired hypothyroidism
+41976,M,2859,PNEUMONIA,,"Anemia, unspecified"
+41976,M,53081,PNEUMONIA,,Esophageal reflux
+41976,M,70703,PNEUMONIA,,"Pressure ulcer, lower back"
+41976,M,70721,PNEUMONIA,,"Pressure ulcer, stage I"
+41976,M,389,FEVER,,Unspecified septicemia
+41976,M,78552,FEVER,,Septic shock
+41976,M,5849,FEVER,,"Acute kidney failure, unspecified"
+41976,M,2760,FEVER,,Hyperosmolality and/or hypernatremia
+41976,M,99592,FEVER,,Severe sepsis
+41976,M,42731,FEVER,,Atrial fibrillation
+41976,M,59970,FEVER,,"Hematuria, unspecified"
+41976,M,5989,FEVER,,"Urethral stricture, unspecified"
+41976,M,53642,RESPIRATORY DISTRESS,,Mechanical complication of gastrostomy
+41976,M,5990,RESPIRATORY DISTRESS,,"Urinary tract infection, site not specified"
+41976,M,3441,RESPIRATORY DISTRESS,,Paraplegia
+41976,M,51909,RESPIRATORY DISTRESS,,Other tracheostomy complications
+41976,M,3572,RESPIRATORY DISTRESS,,Polyneuropathy in diabetes
+41976,M,E8798,RESPIRATORY DISTRESS,,"Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure"
+41976,M,43853,RESPIRATORY DISTRESS,,"Late effects of cerebrovascular disease, other paralytic syndrome, bilateral"
+41976,M,43810,RESPIRATORY DISTRESS,,"Late effects of cerebrovascular disease, speech and language deficit, unspecified"
+41976,M,42731,RESPIRATORY DISTRESS,,Atrial fibrillation
+41976,M,V5861,RESPIRATORY DISTRESS,,Long-term (current) use of anticoagulants
+41976,M,25060,RESPIRATORY DISTRESS,,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+41976,M,4439,RESPIRATORY DISTRESS,,"Peripheral vascular disease, unspecified"
+41976,M,4019,RESPIRATORY DISTRESS,,Unspecified essential hypertension
+41976,M,2449,RESPIRATORY DISTRESS,,Unspecified acquired hypothyroidism
+41976,M,311,RESPIRATORY DISTRESS,,"Depressive disorder, not elsewhere classified"
+41976,M,2724,RESPIRATORY DISTRESS,,Other and unspecified hyperlipidemia
+41976,M,V5867,RESPIRATORY DISTRESS,,Long-term (current) use of insulin
+41976,M,V4984,RESPIRATORY DISTRESS,,Bed confinement status
+41976,M,389,SEPSIS,,Unspecified septicemia
+41976,M,5070,SEPSIS,,Pneumonitis due to inhalation of food or vomitus
+41976,M,70723,SEPSIS,,"Pressure ulcer, stage III"
+41976,M,5990,SEPSIS,,"Urinary tract infection, site not specified"
+41976,M,3441,SEPSIS,,Paraplegia
+41976,M,2760,SEPSIS,,Hyperosmolality and/or hypernatremia
+41976,M,99591,SEPSIS,,Sepsis
+41976,M,43853,SEPSIS,,"Late effects of cerebrovascular disease, other paralytic syndrome, bilateral"
+41976,M,7810,SEPSIS,,Abnormal involuntary movements
+41976,M,V440,SEPSIS,,Tracheostomy status
+41976,M,V444,SEPSIS,,Status of other artificial opening of gastrointestinal tract
+41976,M,70703,SEPSIS,,"Pressure ulcer, lower back"
+41976,M,4019,SEPSIS,,Unspecified essential hypertension
+41976,M,2449,SEPSIS,,Unspecified acquired hypothyroidism
+41976,M,25000,SEPSIS,,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+41976,M,V5867,SEPSIS,,Long-term (current) use of insulin
+41976,M,3569,SEPSIS,,Unspecified hereditary and idiopathic peripheral neuropathy
+41976,M,V442,SEPSIS,,Ileostomy status
+41976,M,42731,SEPSIS,,Atrial fibrillation
+41976,M,V5861,SEPSIS,,Long-term (current) use of anticoagulants
+41976,M,4439,SEPSIS,,"Peripheral vascular disease, unspecified"
+41976,M,2724,SEPSIS,,Other and unspecified hyperlipidemia
+41976,M,V1582,SEPSIS,,Personal history of tobacco use
+41976,M,311,SEPSIS,,"Depressive disorder, not elsewhere classified"
+41976,M,3849,UTI/PYELONEPHRITIS,,Other septicemia due to gram-negative organisms
+41976,M,78552,UTI/PYELONEPHRITIS,,Septic shock
+41976,M,5849,UTI/PYELONEPHRITIS,,"Acute kidney failure, unspecified"
+41976,M,5990,UTI/PYELONEPHRITIS,,"Urinary tract infection, site not specified"
+41976,M,2760,UTI/PYELONEPHRITIS,,Hyperosmolality and/or hypernatremia
+41976,M,99592,UTI/PYELONEPHRITIS,,Severe sepsis
+41976,M,25062,UTI/PYELONEPHRITIS,,"Diabetes with neurological manifestations, type II or unspecified type, uncontrolled"
+41976,M,3572,UTI/PYELONEPHRITIS,,Polyneuropathy in diabetes
+41976,M,4019,UTI/PYELONEPHRITIS,,Unspecified essential hypertension
+41976,M,2449,UTI/PYELONEPHRITIS,,Unspecified acquired hypothyroidism
+41976,M,70703,UTI/PYELONEPHRITIS,,"Pressure ulcer, lower back"
+41976,M,70722,UTI/PYELONEPHRITIS,,"Pressure ulcer, stage II"
+41976,M,42731,UTI/PYELONEPHRITIS,,Atrial fibrillation
+41976,M,311,UTI/PYELONEPHRITIS,,"Depressive disorder, not elsewhere classified"
+41976,M,43810,UTI/PYELONEPHRITIS,,"Late effects of cerebrovascular disease, speech and language deficit, unspecified"
+41976,M,V5861,UTI/PYELONEPHRITIS,,Long-term (current) use of anticoagulants
+41976,M,V440,UTI/PYELONEPHRITIS,,Tracheostomy status
+41976,M,486,PNEUMONIA,,"Pneumonia, organism unspecified"
+41976,M,70723,PNEUMONIA,,"Pressure ulcer, stage III"
+41976,M,5990,PNEUMONIA,,"Urinary tract infection, site not specified"
+41976,M,1120,PNEUMONIA,,Candidiasis of mouth
+41976,M,417,PNEUMONIA,,Pseudomonas infection in conditions classified elsewhere and of unspecified site
+41976,M,70703,PNEUMONIA,,"Pressure ulcer, lower back"
+41976,M,42731,PNEUMONIA,,Atrial fibrillation
+41976,M,2449,PNEUMONIA,,Unspecified acquired hypothyroidism
+41976,M,25060,PNEUMONIA,,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+41976,M,3572,PNEUMONIA,,Polyneuropathy in diabetes
+41976,M,2724,PNEUMONIA,,Other and unspecified hyperlipidemia
+41976,M,2859,PNEUMONIA,,"Anemia, unspecified"
+41976,M,V440,PNEUMONIA,,Tracheostomy status
+41976,M,V442,PNEUMONIA,,Ileostomy status
+41976,M,389,SEPSIS,,Unspecified septicemia
+41976,M,5070,SEPSIS,,Pneumonitis due to inhalation of food or vomitus
+41976,M,48283,SEPSIS,,Pneumonia due to other gram-negative bacteria
+41976,M,34400,SEPSIS,,"Quadriplegia, unspecified"
+41976,M,70724,SEPSIS,,"Pressure ulcer, stage IV"
+41976,M,5849,SEPSIS,,"Acute kidney failure, unspecified"
+41976,M,2930,SEPSIS,,Delirium due to conditions classified elsewhere
+41976,M,2760,SEPSIS,,Hyperosmolality and/or hypernatremia
+41976,M,2767,SEPSIS,,Hyperpotassemia
+41976,M,42731,SEPSIS,,Atrial fibrillation
+41976,M,2752,SEPSIS,,Disorders of magnesium metabolism
+41976,M,70703,SEPSIS,,"Pressure ulcer, lower back"
+41976,M,70705,SEPSIS,,"Pressure ulcer, buttock"
+41976,M,99592,SEPSIS,,Severe sepsis
+41976,M,V440,SEPSIS,,Tracheostomy status
+41976,M,53649,SEPSIS,,Other gastrostomy complications
+41976,M,43853,SEPSIS,,"Late effects of cerebrovascular disease, other paralytic syndrome, bilateral"
+41976,M,59960,SEPSIS,,"Urinary obstruction, unspecified"
+41976,M,25060,SEPSIS,,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+41976,M,3572,SEPSIS,,Polyneuropathy in diabetes
+41976,M,28860,SEPSIS,,"Leukocytosis, unspecified"
+41976,M,4439,SEPSIS,,"Peripheral vascular disease, unspecified"
+41976,M,2689,SEPSIS,,Unspecified vitamin D deficiency
+41976,M,4019,SEPSIS,,Unspecified essential hypertension
+41976,M,311,SEPSIS,,"Depressive disorder, not elsewhere classified"
+41976,M,43811,SEPSIS,,"Late effects of cerebrovascular disease, aphasia"
+41976,M,2724,SEPSIS,,Other and unspecified hyperlipidemia
+41976,M,2449,SEPSIS,,Unspecified acquired hypothyroidism
+41976,M,33829,SEPSIS,,Other chronic pain
+41976,M,V4986,SEPSIS,,Do not resuscitate status
+41976,M,V442,SEPSIS,,Ileostomy status
+41976,M,V1302,SEPSIS,,"Personal history, urinary (tract) infection"
+41976,M,V1204,SEPSIS,,Personal history of Methicillin resistant Staphylococcus aureus
+41976,M,V4572,SEPSIS,,Acquired absence of intestine (large) (small)
+41976,M,V5861,SEPSIS,,Long-term (current) use of anticoagulants
+41976,M,V1251,SEPSIS,,Personal history of venous thrombosis and embolism
+41976,M,V1582,SEPSIS,,Personal history of tobacco use
+41976,M,389,SEPSIS; UTI,,Unspecified septicemia
+41976,M,78552,SEPSIS; UTI,,Septic shock
+41976,M,5849,SEPSIS; UTI,,"Acute kidney failure, unspecified"
+41976,M,5990,SEPSIS; UTI,,"Urinary tract infection, site not specified"
+41976,M,2762,SEPSIS; UTI,,Acidosis
+41976,M,2760,SEPSIS; UTI,,Hyperosmolality and/or hypernatremia
+41976,M,99592,SEPSIS; UTI,,Severe sepsis
+41976,M,70703,SEPSIS; UTI,,"Pressure ulcer, lower back"
+41976,M,70722,SEPSIS; UTI,,"Pressure ulcer, stage II"
+41976,M,42731,SEPSIS; UTI,,Atrial fibrillation
+41976,M,V5861,SEPSIS; UTI,,Long-term (current) use of anticoagulants
+41976,M,25060,SEPSIS; UTI,,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+41976,M,3572,SEPSIS; UTI,,Polyneuropathy in diabetes
+41976,M,4019,SEPSIS; UTI,,Unspecified essential hypertension
+41976,M,2449,SEPSIS; UTI,,Unspecified acquired hypothyroidism
+41976,M,2724,SEPSIS; UTI,,Other and unspecified hyperlipidemia
+41976,M,2859,SEPSIS; UTI,,"Anemia, unspecified"
+41976,M,53081,SEPSIS; UTI,,Esophageal reflux
+41976,M,311,SEPSIS; UTI,,"Depressive disorder, not elsewhere classified"
+41976,M,V440,SEPSIS; UTI,,Tracheostomy status
+41976,M,43819,SEPSIS; UTI,,"Late effects of cerebrovascular disease, other speech and language deficits"
+41976,M,51881,PNEUMONIA,,Acute respiratory failure
+41976,M,5070,PNEUMONIA,,Pneumonitis due to inhalation of food or vomitus
+41976,M,5849,PNEUMONIA,,"Acute kidney failure, unspecified"
+41976,M,5780,PNEUMONIA,,Hematemesis
+41976,M,2761,PNEUMONIA,,Hyposmolality and/or hyponatremia
+41976,M,53019,PNEUMONIA,,Other esophagitis
+41976,M,2800,PNEUMONIA,,Iron deficiency anemia secondary to blood loss (chronic)
+41976,M,25060,PNEUMONIA,,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+41976,M,3572,PNEUMONIA,,Polyneuropathy in diabetes
+41976,M,4019,PNEUMONIA,,Unspecified essential hypertension
+41976,M,2449,PNEUMONIA,,Unspecified acquired hypothyroidism
+41976,M,42731,PNEUMONIA,,Atrial fibrillation
+41976,M,2724,PNEUMONIA,,Other and unspecified hyperlipidemia
+41976,M,3812,HYPOTENSION;UNRESPONSIVE,,Methicillin resistant Staphylococcus aureus septicemia
+41976,M,78552,HYPOTENSION;UNRESPONSIVE,,Septic shock
+41976,M,5849,HYPOTENSION;UNRESPONSIVE,,"Acute kidney failure, unspecified"
+41976,M,383,HYPOTENSION;UNRESPONSIVE,,Septicemia due to anaerobes
+41976,M,99592,HYPOTENSION;UNRESPONSIVE,,Severe sepsis
+41976,M,4019,HYPOTENSION;UNRESPONSIVE,,Unspecified essential hypertension
+41976,M,25060,HYPOTENSION;UNRESPONSIVE,,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+41976,M,3572,HYPOTENSION;UNRESPONSIVE,,Polyneuropathy in diabetes
+41976,M,2449,HYPOTENSION;UNRESPONSIVE,,Unspecified acquired hypothyroidism
+41976,M,99664,URINARY TRACT INFECTION;PYELONEPHRITIS,,Infection and inflammatory reaction due to indwelling urinary catheter
+41976,M,3840,URINARY TRACT INFECTION;PYELONEPHRITIS,,"Septicemia due to gram-negative organism, unspecified"
+41976,M,99591,URINARY TRACT INFECTION;PYELONEPHRITIS,,Sepsis
+41976,M,2760,URINARY TRACT INFECTION;PYELONEPHRITIS,,Hyperosmolality and/or hypernatremia
+41976,M,5990,URINARY TRACT INFECTION;PYELONEPHRITIS,,"Urinary tract infection, site not specified"
+41976,M,70703,URINARY TRACT INFECTION;PYELONEPHRITIS,,"Pressure ulcer, lower back"
+41976,M,70720,URINARY TRACT INFECTION;PYELONEPHRITIS,,"Pressure ulcer, unspecified stage"
+41976,M,42731,URINARY TRACT INFECTION;PYELONEPHRITIS,,Atrial fibrillation
+41976,M,V5861,URINARY TRACT INFECTION;PYELONEPHRITIS,,Long-term (current) use of anticoagulants
+41976,M,25060,URINARY TRACT INFECTION;PYELONEPHRITIS,,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+41976,M,3572,URINARY TRACT INFECTION;PYELONEPHRITIS,,Polyneuropathy in diabetes
+41976,M,2859,URINARY TRACT INFECTION;PYELONEPHRITIS,,"Anemia, unspecified"
+41976,M,2449,URINARY TRACT INFECTION;PYELONEPHRITIS,,Unspecified acquired hypothyroidism
+41976,M,4019,URINARY TRACT INFECTION;PYELONEPHRITIS,,Unspecified essential hypertension
+41976,M,43819,URINARY TRACT INFECTION;PYELONEPHRITIS,,"Late effects of cerebrovascular disease, other speech and language deficits"
+41976,M,V440,URINARY TRACT INFECTION;PYELONEPHRITIS,,Tracheostomy status
+41976,M,845,SEPSIS,,Intestinal infection due to Clostridium difficile
+41976,M,389,SEPSIS,,Unspecified septicemia
+41976,M,51881,SEPSIS,,Acute respiratory failure
+41976,M,5849,SEPSIS,,"Acute kidney failure, unspecified"
+41976,M,99811,SEPSIS,,Hemorrhage complicating a procedure
+41976,M,99592,SEPSIS,,Severe sepsis
+41976,M,70703,SEPSIS,,"Pressure ulcer, lower back"
+41976,M,70722,SEPSIS,,"Pressure ulcer, stage II"
+41976,M,25060,SEPSIS,,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+41976,M,3572,SEPSIS,,Polyneuropathy in diabetes
+41976,M,2449,SEPSIS,,Unspecified acquired hypothyroidism
+41976,M,53081,SEPSIS,,Esophageal reflux
+41976,M,4019,SEPSIS,,Unspecified essential hypertension
+41976,M,43882,SEPSIS,,"Other late effects of cerebrovascular disease, dysphagia"
+41976,M,78720,SEPSIS,,"Dysphagia, unspecified"
+41976,M,389,PNEUMONIA,,Unspecified septicemia
+41976,M,78552,PNEUMONIA,,Septic shock
+41976,M,486,PNEUMONIA,,"Pneumonia, organism unspecified"
+41976,M,5849,PNEUMONIA,,"Acute kidney failure, unspecified"
+41976,M,5990,PNEUMONIA,,"Urinary tract infection, site not specified"
+41976,M,2763,PNEUMONIA,,Alkalosis
+41976,M,99592,PNEUMONIA,,Severe sepsis
+41976,M,25060,PNEUMONIA,,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+41976,M,3572,PNEUMONIA,,Polyneuropathy in diabetes
+41976,M,V5867,PNEUMONIA,,Long-term (current) use of insulin
+41976,M,70703,PNEUMONIA,,"Pressure ulcer, lower back"
+41976,M,70720,PNEUMONIA,,"Pressure ulcer, unspecified stage"
+41976,M,2449,PNEUMONIA,,Unspecified acquired hypothyroidism
+41976,M,4019,PNEUMONIA,,Unspecified essential hypertension
+41976,M,42731,PNEUMONIA,,Atrial fibrillation
+41976,M,V5861,PNEUMONIA,,Long-term (current) use of anticoagulants
+41976,M,V440,PNEUMONIA,,Tracheostomy status
+41976,M,V1251,PNEUMONIA,,Personal history of venous thrombosis and embolism
+41976,M,43889,PNEUMONIA,,Other late effects of cerebrovascular disease
+41976,M,2724,PNEUMONIA,,Other and unspecified hyperlipidemia
+41976,M,2859,PNEUMONIA,,"Anemia, unspecified"
+41976,M,311,PNEUMONIA,,"Depressive disorder, not elsewhere classified"
+41976,M,389,SEPSIS,,Unspecified septicemia
+41976,M,48283,SEPSIS,,Pneumonia due to other gram-negative bacteria
+41976,M,5070,SEPSIS,,Pneumonitis due to inhalation of food or vomitus
+41976,M,99664,SEPSIS,,Infection and inflammatory reaction due to indwelling urinary catheter
+41976,M,5990,SEPSIS,,"Urinary tract infection, site not specified"
+41976,M,53649,SEPSIS,,Other gastrostomy complications
+41976,M,70703,SEPSIS,,"Pressure ulcer, lower back"
+41976,M,70722,SEPSIS,,"Pressure ulcer, stage II"
+41976,M,416,SEPSIS,,Proteus (mirabilis) (morganii) infection in conditions classified elsewhere and of unspecified site
+41976,M,E8796,SEPSIS,,"Urinary catheterization as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure"
+41976,M,42731,SEPSIS,,Atrial fibrillation
+41976,M,V5861,SEPSIS,,Long-term (current) use of anticoagulants
+41976,M,2859,SEPSIS,,"Anemia, unspecified"
+41976,M,99591,SEPSIS,,Sepsis
+41976,M,25060,SEPSIS,,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+41976,M,3572,SEPSIS,,Polyneuropathy in diabetes
+41976,M,4019,SEPSIS,,Unspecified essential hypertension
+41976,M,V440,SEPSIS,,Tracheostomy status
+41976,M,V1254,SEPSIS,,"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits"
+41983,F,80501,S/P FALL,,Closed fracture of first cervical vertebra
+41983,F,8052,S/P FALL,,Closed fracture of dorsal [thoracic] vertebra without mention of spinal cord injury
+41983,F,5990,S/P FALL,,"Urinary tract infection, site not specified"
+41983,F,20410,S/P FALL,,"Chronic lymphoid leukemia, without mention of having achieved remission"
+41983,F,2761,S/P FALL,,Hyposmolality and/or hyponatremia
+41983,F,80502,S/P FALL,,Closed fracture of second cervical vertebra
+41983,F,8911,S/P FALL,,"Open wound of knee, leg [except thigh], and ankle, complicated"
+41983,F,E8809,S/P FALL,,Accidental fall on or from other stairs or steps
+41983,F,E8490,S/P FALL,,Home accidents
+41983,F,2948,S/P FALL,,Other persistent mental disorders due to conditions classified elsewhere
+41983,F,4019,S/P FALL,,Unspecified essential hypertension
+41983,F,4240,S/P FALL,,Mitral valve disorders
+41983,F,2449,S/P FALL,,Unspecified acquired hypothyroidism
+41983,F,53081,S/P FALL,,Esophageal reflux
+41983,F,3669,S/P FALL,,Unspecified cataract
+41983,F,V667,S/P FALL,,Encounter for palliative care
+42033,F,42821,SHORTNESS OF BREATH,,Acute systolic heart failure
+42033,F,9971,SHORTNESS OF BREATH,,"Cardiac complications, not elsewhere classified"
+42033,F,4160,SHORTNESS OF BREATH,,Primary pulmonary hypertension
+42033,F,4280,SHORTNESS OF BREATH,,"Congestive heart failure, unspecified"
+42033,F,41401,SHORTNESS OF BREATH,,Coronary atherosclerosis of native coronary artery
+42033,F,42731,SHORTNESS OF BREATH,,Atrial fibrillation
+42033,F,3962,SHORTNESS OF BREATH,,Mitral valve insufficiency and aortic valve stenosis
+42066,M,51919,TRACHEAL STENOSIS,,Other diseases of trachea and bronchus
+42066,M,5070,TRACHEAL STENOSIS,,Pneumonitis due to inhalation of food or vomitus
+42066,M,V4611,TRACHEAL STENOSIS,,"Dependence on respirator, status"
+42066,M,7580,TRACHEAL STENOSIS,,Down's syndrome
+42066,M,4275,TRACHEAL STENOSIS,,Cardiac arrest
+42066,M,78720,TRACHEAL STENOSIS,,"Dysphagia, unspecified"
+42066,M,319,TRACHEAL STENOSIS,,Unspecified intellectual disabilities
+42066,M,2749,TRACHEAL STENOSIS,,"Gout, unspecified"
+42066,M,34590,TRACHEAL STENOSIS,,"Epilepsy, unspecified, without mention of intractable epilepsy"
+42066,M,V441,TRACHEAL STENOSIS,,Gastrostomy status
+42075,M,41041,INFERIOR MYOCARDIAL INFARCTION\CATH,,"Acute myocardial infarction of other inferior wall, initial episode of care"
+42075,M,5849,INFERIOR MYOCARDIAL INFARCTION\CATH,,"Acute kidney failure, unspecified"
+42075,M,1623,INFERIOR MYOCARDIAL INFARCTION\CATH,,"Malignant neoplasm of upper lobe, bronchus or lung"
+42075,M,1977,INFERIOR MYOCARDIAL INFARCTION\CATH,,"Malignant neoplasm of liver, secondary"
+42075,M,1985,INFERIOR MYOCARDIAL INFARCTION\CATH,,Secondary malignant neoplasm of bone and bone marrow
+42075,M,51881,INFERIOR MYOCARDIAL INFARCTION\CATH,,Acute respiratory failure
+42075,M,2762,INFERIOR MYOCARDIAL INFARCTION\CATH,,Acidosis
+42075,M,5070,INFERIOR MYOCARDIAL INFARCTION\CATH,,Pneumonitis due to inhalation of food or vomitus
+42075,M,5789,INFERIOR MYOCARDIAL INFARCTION\CATH,,"Hemorrhage of gastrointestinal tract, unspecified"
+42075,M,4275,INFERIOR MYOCARDIAL INFARCTION\CATH,,Cardiac arrest
+42075,M,41401,INFERIOR MYOCARDIAL INFARCTION\CATH,,Coronary atherosclerosis of native coronary artery
+42075,M,4588,INFERIOR MYOCARDIAL INFARCTION\CATH,,Other specified hypotension
+42075,M,25000,INFERIOR MYOCARDIAL INFARCTION\CATH,,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+42075,M,2724,INFERIOR MYOCARDIAL INFARCTION\CATH,,Other and unspecified hyperlipidemia
+42075,M,4019,INFERIOR MYOCARDIAL INFARCTION\CATH,,Unspecified essential hypertension
+42075,M,496,INFERIOR MYOCARDIAL INFARCTION\CATH,,"Chronic airway obstruction, not elsewhere classified"
+42075,M,28984,INFERIOR MYOCARDIAL INFARCTION\CATH,,Heparin-induced thrombocytopenia (HIT)
+42135,M,5722,FAILURE TO THRIVE,,Hepatic encephalopathy
+42135,M,5849,FAILURE TO THRIVE,,"Acute kidney failure, unspecified"
+42135,M,78959,FAILURE TO THRIVE,,Other ascites
+42135,M,261,FAILURE TO THRIVE,,Nutritional marasmus
+42135,M,5724,FAILURE TO THRIVE,,Hepatorenal syndrome
+42135,M,2763,FAILURE TO THRIVE,,Alkalosis
+42135,M,2762,FAILURE TO THRIVE,,Acidosis
+42135,M,5712,FAILURE TO THRIVE,,Alcoholic cirrhosis of liver
+42135,M,53789,FAILURE TO THRIVE,,Other specified disorders of stomach and duodenum
+42135,M,30393,FAILURE TO THRIVE,,"Other and unspecified alcohol dependence, in remission"
+42135,M,V4983,FAILURE TO THRIVE,,Awaiting organ transplant status
+42135,M,5722,HEPATIC ENCEP,,Hepatic encephalopathy
+42135,M,5849,HEPATIC ENCEP,,"Acute kidney failure, unspecified"
+42135,M,452,HEPATIC ENCEP,,Portal vein thrombosis
+42135,M,99592,HEPATIC ENCEP,,Severe sepsis
+42135,M,51881,HEPATIC ENCEP,,Acute respiratory failure
+42135,M,78552,HEPATIC ENCEP,,Septic shock
+42135,M,486,HEPATIC ENCEP,,"Pneumonia, organism unspecified"
+42135,M,3812,HEPATIC ENCEP,,Methicillin resistant Staphylococcus aureus septicemia
+42135,M,45621,HEPATIC ENCEP,,"Esophageal varices in diseases classified elsewhere, without mention of bleeding"
+42135,M,2639,HEPATIC ENCEP,,Unspecified protein-calorie malnutrition
+42135,M,7994,HEPATIC ENCEP,,Cachexia
+42135,M,2762,HEPATIC ENCEP,,Acidosis
+42135,M,5789,HEPATIC ENCEP,,"Hemorrhage of gastrointestinal tract, unspecified"
+42135,M,1122,HEPATIC ENCEP,,Candidiasis of other urogenital sites
+42135,M,5712,HEPATIC ENCEP,,Alcoholic cirrhosis of liver
+42135,M,V1581,HEPATIC ENCEP,,"Personal history of noncompliance with medical treatment, presenting hazards to health"
+42135,M,30391,HEPATIC ENCEP,,"Other and unspecified alcohol dependence, continuous"
+42135,M,53789,HEPATIC ENCEP,,Other specified disorders of stomach and duodenum
+42135,M,2768,HEPATIC ENCEP,,Hypopotassemia
+42135,M,5859,HEPATIC ENCEP,,"Chronic kidney disease, unspecified"
+42135,M,78039,HEPATIC ENCEP,,Other convulsions
+42135,M,59970,HEPATIC ENCEP,,"Hematuria, unspecified"
+42135,M,V0254,HEPATIC ENCEP,,Carrier or suspected carrier of Methicillin resistant Staphylococcus aureus
+42199,F,41071,CHEST PAIN,,"Subendocardial infarction, initial episode of care"
+42199,F,43401,CHEST PAIN,,Cerebral thrombosis with cerebral infarction
+42199,F,34290,CHEST PAIN,,"Hemiplegia, unspecified, affecting unspecified side"
+42199,F,1570,CHEST PAIN,,Malignant neoplasm of head of pancreas
+42199,F,1977,CHEST PAIN,,"Malignant neoplasm of liver, secondary"
+42199,F,1970,CHEST PAIN,,Secondary malignant neoplasm of lung
+42199,F,99812,CHEST PAIN,,Hematoma complicating a procedure
+42199,F,4531,CHEST PAIN,,Thrombophlebitis migrans
+42199,F,7907,CHEST PAIN,,Bacteremia
+42199,F,25000,CHEST PAIN,,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+42199,F,4019,CHEST PAIN,,Unspecified essential hypertension
+42199,F,V103,CHEST PAIN,,Personal history of malignant neoplasm of breast
+42199,F,V1251,CHEST PAIN,,Personal history of venous thrombosis and embolism
+42199,F,2859,CHEST PAIN,,"Anemia, unspecified"
+42199,F,E8798,CHEST PAIN,,"Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure"
+42231,F,1890,RENAL CANCER/SDA,,"Malignant neoplasm of kidney, except pelvis"
+42231,F,1966,RENAL CANCER/SDA,,Secondary and unspecified malignant neoplasm of intrapelvic lymph nodes
+42231,F,9982,RENAL CANCER/SDA,,"Accidental puncture or laceration during a procedure, not elsewhere classified"
+42231,F,5119,RENAL CANCER/SDA,,Unspecified pleural effusion
+42231,F,2930,RENAL CANCER/SDA,,Delirium due to conditions classified elsewhere
+42231,F,E8700,RENAL CANCER/SDA,,"Accidental cut, puncture, perforation or hemorrhage during surgical operation"
+42231,F,4019,RENAL CANCER/SDA,,Unspecified essential hypertension
+42231,F,42731,RENAL CANCER/SDA,,Atrial fibrillation
+42231,F,42789,RENAL CANCER/SDA,,Other specified cardiac dysrhythmias
+42231,F,2724,RENAL CANCER/SDA,,Other and unspecified hyperlipidemia
+42231,F,V103,RENAL CANCER/SDA,,Personal history of malignant neoplasm of breast
+42231,F,2859,RENAL CANCER/SDA,,"Anemia, unspecified"
+42231,F,45829,RENAL CANCER/SDA,,Other iatrogenic hypotension
+42275,M,49121,SHORTNESS OF BREATH,,Obstructive chronic bronchitis with (acute) exacerbation
+42275,M,1629,SHORTNESS OF BREATH,,"Malignant neoplasm of bronchus and lung, unspecified"
+42275,M,1961,SHORTNESS OF BREATH,,Secondary and unspecified malignant neoplasm of intrathoracic lymph nodes
+42275,M,193,SHORTNESS OF BREATH,,Malignant neoplasm of thyroid gland
+42275,M,32723,SHORTNESS OF BREATH,,Obstructive sleep apnea (adult)(pediatric)
+42275,M,40390,SHORTNESS OF BREATH,,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+42275,M,5853,SHORTNESS OF BREATH,,"Chronic kidney disease, Stage III (moderate)"
+42275,M,78722,SHORTNESS OF BREATH,,"Dysphagia, oropharyngeal phase"
+42275,M,5303,SHORTNESS OF BREATH,,Stricture and stenosis of esophagus
+42275,M,V4501,SHORTNESS OF BREATH,,Cardiac pacemaker in situ
+42275,M,60000,SHORTNESS OF BREATH,,Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS)
+42275,M,47833,SHORTNESS OF BREATH,,"Bilateral paralysis of vocal cords or larynx, partial"
+42275,M,V462,SHORTNESS OF BREATH,,"Other dependence on machines, supplemental oxygen"
+42275,M,V1582,SHORTNESS OF BREATH,,Personal history of tobacco use
+42275,M,V8741,SHORTNESS OF BREATH,,Personal history of antineoplastic chemotherapy
+42275,M,V153,SHORTNESS OF BREATH,,"Personal history of irradiation, presenting hazards to health"
+42281,F,5715,UPPER GI BLEED,,Cirrhosis of liver without mention of alcohol
+42281,F,45620,UPPER GI BLEED,,"Esophageal varices in diseases classified elsewhere, with bleeding"
+42281,F,5849,UPPER GI BLEED,,"Acute kidney failure, unspecified"
+42281,F,6191,UPPER GI BLEED,,"Digestive-genital tract fistula, female"
+42281,F,59582,UPPER GI BLEED,,Irradiation cystitis
+42281,F,78959,UPPER GI BLEED,,Other ascites
+42281,F,51881,UPPER GI BLEED,,Acute respiratory failure
+42281,F,7044,UPPER GI BLEED,,Chronic hepatitis C with hepatic coma
+42281,F,2851,UPPER GI BLEED,,Acute posthemorrhagic anemia
+42281,F,5723,UPPER GI BLEED,,Portal hypertension
+42281,F,2760,UPPER GI BLEED,,Hyperosmolality and/or hypernatremia
+42281,F,2762,UPPER GI BLEED,,Acidosis
+42281,F,5641,UPPER GI BLEED,,Irritable bowel syndrome
+42281,F,53390,UPPER GI BLEED,,"Peptic ulcer of unspecified site, unspecified as acute or chronic, without mention of hemorrhage or perforation, without mention of obstruction"
+42281,F,42741,UPPER GI BLEED,,Ventricular fibrillation
+42281,F,56949,UPPER GI BLEED,,Other specified disorders of rectum and anus
+42281,F,2768,UPPER GI BLEED,,Hypopotassemia
+42281,F,5533,UPPER GI BLEED,,Diaphragmatic hernia without mention of obstruction or gangrene
+42281,F,V153,UPPER GI BLEED,,"Personal history of irradiation, presenting hazards to health"
+42281,F,V1041,UPPER GI BLEED,,Personal history of malignant neoplasm of cervix uteri
+42281,F,V8801,UPPER GI BLEED,,Acquired absence of both cervix and uterus
+42281,F,E8792,UPPER GI BLEED,,"Radiological procedure and radiotherapy as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure"
+42292,M,8830,PNEUMONIA/HYPOGLCEMIA/SYNCOPE,,"Open wound of finger(s), without mention of complication"
+42292,M,486,PNEUMONIA/HYPOGLCEMIA/SYNCOPE,,"Pneumonia, organism unspecified"
+42292,M,29181,PNEUMONIA/HYPOGLCEMIA/SYNCOPE,,Alcohol withdrawal
+42292,M,E8120,PNEUMONIA/HYPOGLCEMIA/SYNCOPE,,Other motor vehicle traffic accident involving collision with motor vehicle injuring driver of motor vehicle other than motorcycle
+42292,M,E8495,PNEUMONIA/HYPOGLCEMIA/SYNCOPE,,Street and highway accidents
+42292,M,25080,PNEUMONIA/HYPOGLCEMIA/SYNCOPE,,"Diabetes with other specified manifestations, type II or unspecified type, not stated as uncontrolled"
+42292,M,30301,PNEUMONIA/HYPOGLCEMIA/SYNCOPE,,"Acute alcoholic intoxication in alcoholism, continuous"
+42292,M,78009,PNEUMONIA/HYPOGLCEMIA/SYNCOPE,,Other alteration of consciousness
+42292,M,53081,PNEUMONIA/HYPOGLCEMIA/SYNCOPE,,Esophageal reflux
+42292,M,V425,PNEUMONIA/HYPOGLCEMIA/SYNCOPE,,Cornea replaced by transplant
+42292,M,25070,PNEUMONIA/HYPOGLCEMIA/SYNCOPE,,"Diabetes with peripheral circulatory disorders, type II or unspecified type, not stated as uncontrolled"
+42292,M,44020,PNEUMONIA/HYPOGLCEMIA/SYNCOPE,,"Atherosclerosis of native arteries of the extremities, unspecified"
+42292,M,3051,PNEUMONIA/HYPOGLCEMIA/SYNCOPE,,Tobacco use disorder
+42292,M,2859,PNEUMONIA/HYPOGLCEMIA/SYNCOPE,,"Anemia, unspecified"
+42292,M,99631,PNEUMONIA/HYPOGLCEMIA/SYNCOPE,,Mechanical complication due to urethral (indwelling) catheter
+42292,M,E8796,PNEUMONIA/HYPOGLCEMIA/SYNCOPE,,"Urinary catheterization as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure"
+42292,M,E8497,PNEUMONIA/HYPOGLCEMIA/SYNCOPE,,Accidents occurring in residential institution
+42292,M,42731,PNEUMONIA/HYPOGLCEMIA/SYNCOPE,,Atrial fibrillation
+42302,F,49322,ASTHMA/COPD FLARE,,Chronic obstructive asthma with (acute) exacerbation
+42302,F,5070,ASTHMA/COPD FLARE,,Pneumonitis due to inhalation of food or vomitus
+42302,F,42832,ASTHMA/COPD FLARE,,Chronic diastolic heart failure
+42302,F,2930,ASTHMA/COPD FLARE,,Delirium due to conditions classified elsewhere
+42302,F,79902,ASTHMA/COPD FLARE,,Hypoxemia
+42302,F,4280,ASTHMA/COPD FLARE,,"Congestive heart failure, unspecified"
+42302,F,41401,ASTHMA/COPD FLARE,,Coronary atherosclerosis of native coronary artery
+42302,F,412,ASTHMA/COPD FLARE,,Old myocardial infarction
+42302,F,340,ASTHMA/COPD FLARE,,Multiple sclerosis
+42302,F,25000,ASTHMA/COPD FLARE,,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+42302,F,2948,ASTHMA/COPD FLARE,,Other persistent mental disorders due to conditions classified elsewhere
+42302,F,53081,ASTHMA/COPD FLARE,,Esophageal reflux
+42302,F,28521,ASTHMA/COPD FLARE,,Anemia in chronic kidney disease
+42302,F,37410,ASTHMA/COPD FLARE,,"Ectropion, unspecified"
+42302,F,311,ASTHMA/COPD FLARE,,"Depressive disorder, not elsewhere classified"
+42302,F,40390,ASTHMA/COPD FLARE,,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+42302,F,5859,ASTHMA/COPD FLARE,,"Chronic kidney disease, unspecified"
+42302,F,2989,ASTHMA/COPD FLARE,,Unspecified psychosis
+42302,F,V5865,ASTHMA/COPD FLARE,,Long-term (current) use of steroids
+42302,F,73300,ASTHMA/COPD FLARE,,"Osteoporosis, unspecified"
+42302,F,4112,ASTHMA/COPD FLARE,,Methicillin resistant Staphylococcus aureus in conditions classified elsewhere and of unspecified site
+42302,F,V1302,ASTHMA/COPD FLARE,,"Personal history, urinary (tract) infection"
+42302,F,V1581,ASTHMA/COPD FLARE,,"Personal history of noncompliance with medical treatment, presenting hazards to health"
+42321,F,5990,FAILURE TO THRIVE,,"Urinary tract infection, site not specified"
+42321,F,5849,FAILURE TO THRIVE,,"Acute kidney failure, unspecified"
+42321,F,8600,FAILURE TO THRIVE,,Traumatic pneumothorax without mention of open wound into thorax
+42321,F,75321,FAILURE TO THRIVE,,Congenital obstruction of ureteropelvic junction
+42321,F,2760,FAILURE TO THRIVE,,Hyperosmolality and/or hypernatremia
+42321,F,2930,FAILURE TO THRIVE,,Delirium due to conditions classified elsewhere
+42321,F,2851,FAILURE TO THRIVE,,Acute posthemorrhagic anemia
+42321,F,42731,FAILURE TO THRIVE,,Atrial fibrillation
+42321,F,5859,FAILURE TO THRIVE,,"Chronic kidney disease, unspecified"
+42321,F,40390,FAILURE TO THRIVE,,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+42321,F,27650,FAILURE TO THRIVE,,"Volume depletion, unspecified"
+42321,F,2720,FAILURE TO THRIVE,,Pure hypercholesterolemia
+42321,F,30000,FAILURE TO THRIVE,,"Anxiety state, unspecified"
+42321,F,311,FAILURE TO THRIVE,,"Depressive disorder, not elsewhere classified"
+42321,F,3310,FAILURE TO THRIVE,,Alzheimer's disease
+42321,F,29410,FAILURE TO THRIVE,,Dementia in conditions classified elsewhere without behavioral disturbance
+42321,F,43850,FAILURE TO THRIVE,,"Late effects of cerebrovascular disease, other paralytic syndrome affecting unspecified side"
+42321,F,E8798,FAILURE TO THRIVE,,"Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure"
+42346,F,5602,VOLVULUS,,Volvulus
+42346,F,486,VOLVULUS,,"Pneumonia, organism unspecified"
+42346,F,39891,VOLVULUS,,Rheumatic heart failure (congestive)
+42346,F,3963,VOLVULUS,,Mitral valve insufficiency and aortic valve insufficiency
+42346,F,3970,VOLVULUS,,Diseases of tricuspid valve
+42346,F,42731,VOLVULUS,,Atrial fibrillation
+42346,F,79902,VOLVULUS,,Hypoxemia
+42346,F,4589,VOLVULUS,,"Hypotension, unspecified"
+42346,F,V5861,VOLVULUS,,Long-term (current) use of anticoagulants
+42346,F,4019,VOLVULUS,,Unspecified essential hypertension
+42346,F,25000,VOLVULUS,,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+42346,F,V5867,VOLVULUS,,Long-term (current) use of insulin
+42346,F,2724,VOLVULUS,,Other and unspecified hyperlipidemia
+42346,F,4439,VOLVULUS,,"Peripheral vascular disease, unspecified"
+42346,F,53390,VOLVULUS,,"Peptic ulcer of unspecified site, unspecified as acute or chronic, without mention of hemorrhage or perforation, without mention of obstruction"
+42346,F,V4501,VOLVULUS,,Cardiac pacemaker in situ
+42346,F,3659,VOLVULUS,,Unspecified glaucoma
+42346,F,V1083,VOLVULUS,,Personal history of other malignant neoplasm of skin
+42346,F,V667,VOLVULUS,,Encounter for palliative care
+42346,F,42821,PNEUMONIA,,Acute systolic heart failure
+42346,F,486,PNEUMONIA,,"Pneumonia, organism unspecified"
+42346,F,51881,PNEUMONIA,,Acute respiratory failure
+42346,F,4254,PNEUMONIA,,Other primary cardiomyopathies
+42346,F,2764,PNEUMONIA,,Mixed acid-base balance disorder
+42346,F,5990,PNEUMONIA,,"Urinary tract infection, site not specified"
+42346,F,4280,PNEUMONIA,,"Congestive heart failure, unspecified"
+42346,F,3968,PNEUMONIA,,Multiple involvement of mitral and aortic valves
+42346,F,3970,PNEUMONIA,,Diseases of tricuspid valve
+42346,F,42731,PNEUMONIA,,Atrial fibrillation
+42346,F,37230,PNEUMONIA,,"Conjunctivitis, unspecified"
+42346,F,25000,PNEUMONIA,,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+42346,F,56400,PNEUMONIA,,"Constipation, unspecified"
+42346,F,4019,PNEUMONIA,,Unspecified essential hypertension
+42346,F,2724,PNEUMONIA,,Other and unspecified hyperlipidemia
+42346,F,4439,PNEUMONIA,,"Peripheral vascular disease, unspecified"
+42346,F,3659,PNEUMONIA,,Unspecified glaucoma
+42346,F,53390,PNEUMONIA,,"Peptic ulcer of unspecified site, unspecified as acute or chronic, without mention of hemorrhage or perforation, without mention of obstruction"
+42346,F,V4501,PNEUMONIA,,Cardiac pacemaker in situ
+42346,F,V5861,PNEUMONIA,,Long-term (current) use of anticoagulants
+42346,F,V1083,PNEUMONIA,,Personal history of other malignant neoplasm of skin
+42367,F,85225,SEIZURE;STATUS EPILEPTICUS,,"Subdural hemorrhage following injury without mention of open intracranial wound, with prolonged [more than 24 hours] loss of consciousness without return to pre-existing conscious level"
+42367,F,42832,SEIZURE;STATUS EPILEPTICUS,,Chronic diastolic heart failure
+42367,F,3315,SEIZURE;STATUS EPILEPTICUS,,Idiopathic normal pressure hydrocephalus (INPH)
+42367,F,2761,SEIZURE;STATUS EPILEPTICUS,,Hyposmolality and/or hyponatremia
+42367,F,34570,SEIZURE;STATUS EPILEPTICUS,,"Epilepsia partialis continua, without mention of intractable epilepsy"
+42367,F,E8889,SEIZURE;STATUS EPILEPTICUS,,Unspecified fall
+42367,F,4280,SEIZURE;STATUS EPILEPTICUS,,"Congestive heart failure, unspecified"
+42367,F,2948,SEIZURE;STATUS EPILEPTICUS,,Other persistent mental disorders due to conditions classified elsewhere
+42367,F,V452,SEIZURE;STATUS EPILEPTICUS,,Presence of cerebrospinal fluid drainage device
+42367,F,2768,SEIZURE;STATUS EPILEPTICUS,,Hypopotassemia
+42367,F,43889,SEIZURE;STATUS EPILEPTICUS,,Other late effects of cerebrovascular disease
+42367,F,72989,SEIZURE;STATUS EPILEPTICUS,,Other musculoskeletal symptoms referable to limbs
+42367,F,53081,SEIZURE;STATUS EPILEPTICUS,,Esophageal reflux
+42367,F,311,SEIZURE;STATUS EPILEPTICUS,,"Depressive disorder, not elsewhere classified"
+42367,F,2859,SEIZURE;STATUS EPILEPTICUS,,"Anemia, unspecified"
+42367,F,25000,SEIZURE;STATUS EPILEPTICUS,,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+42367,F,V1582,SEIZURE;STATUS EPILEPTICUS,,Personal history of tobacco use
+42367,F,79094,SEIZURE;STATUS EPILEPTICUS,,Euthyroid sick syndrome
+42367,F,78060,SEIZURE;STATUS EPILEPTICUS,,"Fever, unspecified"
+42412,M,2511,HYPOGLYCEMIA,,Other specified hypoglycemia
+42412,M,5849,HYPOGLYCEMIA,,"Acute kidney failure, unspecified"
+42412,M,486,HYPOGLYCEMIA,,"Pneumonia, organism unspecified"
+42412,M,42832,HYPOGLYCEMIA,,Chronic diastolic heart failure
+42412,M,2930,HYPOGLYCEMIA,,Delirium due to conditions classified elsewhere
+42412,M,8670,HYPOGLYCEMIA,,"Injury to bladder and urethra, without mention of open wound into cavity"
+42412,M,59971,HYPOGLYCEMIA,,Gross hematuria
+42412,M,40390,HYPOGLYCEMIA,,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+42412,M,5859,HYPOGLYCEMIA,,"Chronic kidney disease, unspecified"
+42412,M,4280,HYPOGLYCEMIA,,"Congestive heart failure, unspecified"
+42412,M,42731,HYPOGLYCEMIA,,Atrial fibrillation
+42412,M,41400,HYPOGLYCEMIA,,"Coronary atherosclerosis of unspecified type of vessel, native or graft"
+42412,M,2724,HYPOGLYCEMIA,,Other and unspecified hyperlipidemia
+42412,M,4149,HYPOGLYCEMIA,,"Chronic ischemic heart disease, unspecified"
+42412,M,28521,HYPOGLYCEMIA,,Anemia in chronic kidney disease
+42412,M,60000,HYPOGLYCEMIA,,Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS)
+42412,M,2948,HYPOGLYCEMIA,,Other persistent mental disorders due to conditions classified elsewhere
+42412,M,V4581,HYPOGLYCEMIA,,Aortocoronary bypass status
+42412,M,V1272,HYPOGLYCEMIA,,Personal history of colonic polyps
+42412,M,E9308,HYPOGLYCEMIA,,Other specified antibiotics causing adverse effects in therapeutic use
+42412,M,E9289,HYPOGLYCEMIA,,Unspecified accident
+42430,M,43411,CEREBROVASCULAR ACCIDENT,,Cerebral embolism with cerebral infarction
+42430,M,3484,CEREBROVASCULAR ACCIDENT,,Compression of brain
+42430,M,51881,CEREBROVASCULAR ACCIDENT,,Acute respiratory failure
+42430,M,5070,CEREBROVASCULAR ACCIDENT,,Pneumonitis due to inhalation of food or vomitus
+42430,M,42731,CEREBROVASCULAR ACCIDENT,,Atrial fibrillation
+42430,M,25000,CEREBROVASCULAR ACCIDENT,,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+42430,M,4019,CEREBROVASCULAR ACCIDENT,,Unspecified essential hypertension
+42430,M,4439,CEREBROVASCULAR ACCIDENT,,"Peripheral vascular disease, unspecified"
+42430,M,496,CEREBROVASCULAR ACCIDENT,,"Chronic airway obstruction, not elsewhere classified"
+42430,M,3051,CEREBROVASCULAR ACCIDENT,,Tobacco use disorder
+42458,M,4588,PNEUMONIA,,Other specified hypotension
+42458,M,5849,PNEUMONIA,,"Acute kidney failure, unspecified"
+42458,M,4270,PNEUMONIA,,Paroxysmal supraventricular tachycardia
+42458,M,27652,PNEUMONIA,,Hypovolemia
+42458,M,2948,PNEUMONIA,,Other persistent mental disorders due to conditions classified elsewhere
+42458,M,72400,PNEUMONIA,,"Spinal stenosis, unspecified region"
+43735,M,5849,HYPOTENSION,,"Acute kidney failure, unspecified"
+43735,M,486,HYPOTENSION,,"Pneumonia, organism unspecified"
+43735,M,34830,HYPOTENSION,,"Encephalopathy, unspecified"
+43735,M,42843,HYPOTENSION,,Acute on chronic combined systolic and diastolic heart failure
+43735,M,5789,HYPOTENSION,,"Hemorrhage of gastrointestinal tract, unspecified"
+43735,M,4254,HYPOTENSION,,Other primary cardiomyopathies
+43735,M,5119,HYPOTENSION,,Unspecified pleural effusion
+43735,M,78959,HYPOTENSION,,Other ascites
+43735,M,4271,HYPOTENSION,,Paroxysmal ventricular tachycardia
+43735,M,5859,HYPOTENSION,,"Chronic kidney disease, unspecified"
+43735,M,79902,HYPOTENSION,,Hypoxemia
+43735,M,4280,HYPOTENSION,,"Congestive heart failure, unspecified"
+43735,M,5712,HYPOTENSION,,Alcoholic cirrhosis of liver
+43735,M,496,HYPOTENSION,,"Chronic airway obstruction, not elsewhere classified"
+43735,M,42731,HYPOTENSION,,Atrial fibrillation
+43735,M,41401,HYPOTENSION,,Coronary atherosclerosis of native coronary artery
+43735,M,V4582,HYPOTENSION,,Percutaneous transluminal coronary angioplasty status
+43735,M,25000,HYPOTENSION,,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+43735,M,2724,HYPOTENSION,,Other and unspecified hyperlipidemia
+43735,M,40390,HYPOTENSION,,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+43735,M,4439,HYPOTENSION,,"Peripheral vascular disease, unspecified"
+43735,M,32723,HYPOTENSION,,Obstructive sleep apnea (adult)(pediatric)
+43735,M,2449,HYPOTENSION,,Unspecified acquired hypothyroidism
+43746,F,1541,METASTIC MELANOMA;ANEMIA,,Malignant neoplasm of rectum
+43746,F,5849,METASTIC MELANOMA;ANEMIA,,"Acute kidney failure, unspecified"
+43746,F,1977,METASTIC MELANOMA;ANEMIA,,"Malignant neoplasm of liver, secondary"
+43746,F,1962,METASTIC MELANOMA;ANEMIA,,Secondary and unspecified malignant neoplasm of intra-abdominal lymph nodes
+43746,F,1976,METASTIC MELANOMA;ANEMIA,,Secondary malignant neoplasm of retroperitoneum and peritoneum
+43746,F,5990,METASTIC MELANOMA;ANEMIA,,"Urinary tract infection, site not specified"
+43746,F,78959,METASTIC MELANOMA;ANEMIA,,Other ascites
+43746,F,5772,METASTIC MELANOMA;ANEMIA,,Cyst and pseudocyst of pancreas
+43746,F,2800,METASTIC MELANOMA;ANEMIA,,Iron deficiency anemia secondary to blood loss (chronic)
+43746,F,5960,METASTIC MELANOMA;ANEMIA,,Bladder neck obstruction
+43746,F,413,METASTIC MELANOMA;ANEMIA,,Friedl?nder's bacillus infection in conditions classified elsewhere and of unspecified site
+43746,F,4019,METASTIC MELANOMA;ANEMIA,,Unspecified essential hypertension
+43746,F,71590,METASTIC MELANOMA;ANEMIA,,"Osteoarthrosis, unspecified whether generalized or localized, site unspecified"
+43746,F,78820,METASTIC MELANOMA;ANEMIA,,"Retention of urine, unspecified"
+43746,F,78900,METASTIC MELANOMA;ANEMIA,,"Abdominal pain, unspecified site"
+43746,F,7823,METASTIC MELANOMA;ANEMIA,,Edema
+43748,M,42843,"HYPOTENSION, RENAL FAILURE",,Acute on chronic combined systolic and diastolic heart failure
+43748,M,5849,"HYPOTENSION, RENAL FAILURE",,"Acute kidney failure, unspecified"
+43748,M,78551,"HYPOTENSION, RENAL FAILURE",,Cardiogenic shock
+43748,M,6826,"HYPOTENSION, RENAL FAILURE",,"Cellulitis and abscess of leg, except foot"
+43748,M,4280,"HYPOTENSION, RENAL FAILURE",,"Congestive heart failure, unspecified"
+43748,M,2875,"HYPOTENSION, RENAL FAILURE",,"Thrombocytopenia, unspecified"
+43748,M,41400,"HYPOTENSION, RENAL FAILURE",,"Coronary atherosclerosis of unspecified type of vessel, native or graft"
+43748,M,V4581,"HYPOTENSION, RENAL FAILURE",,Aortocoronary bypass status
+43779,M,85221,ACUTE SUBDURAL HEMATOMA,,"Subdural hemorrhage following injury without mention of open intracranial wound, with no loss of consciousness"
+43779,M,5849,ACUTE SUBDURAL HEMATOMA,,"Acute kidney failure, unspecified"
+43779,M,1970,ACUTE SUBDURAL HEMATOMA,,Secondary malignant neoplasm of lung
+43779,M,1539,ACUTE SUBDURAL HEMATOMA,,"Malignant neoplasm of colon, unspecified site"
+43779,M,E8859,ACUTE SUBDURAL HEMATOMA,,"Fall from other slipping, tripping, or stumbling"
+43779,M,42652,ACUTE SUBDURAL HEMATOMA,,Right bundle branch block and left anterior fascicular block
+43779,M,28521,ACUTE SUBDURAL HEMATOMA,,Anemia in chronic kidney disease
+43779,M,5859,ACUTE SUBDURAL HEMATOMA,,"Chronic kidney disease, unspecified"
+43779,M,25000,ACUTE SUBDURAL HEMATOMA,,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+43779,M,2724,ACUTE SUBDURAL HEMATOMA,,Other and unspecified hyperlipidemia
+43779,M,40390,ACUTE SUBDURAL HEMATOMA,,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+43798,M,1510,ESOPHAGEAL CA/SDA,,Malignant neoplasm of cardia
+43798,M,9971,ESOPHAGEAL CA/SDA,,"Cardiac complications, not elsewhere classified"
+43798,M,51881,ESOPHAGEAL CA/SDA,,Acute respiratory failure
+43798,M,51189,ESOPHAGEAL CA/SDA,,"Other specified forms of effusion, except tuberculous"
+43798,M,42731,ESOPHAGEAL CA/SDA,,Atrial fibrillation
+43798,M,2875,ESOPHAGEAL CA/SDA,,"Thrombocytopenia, unspecified"
+43798,M,47831,ESOPHAGEAL CA/SDA,,"Unilateral paralysis of vocal cords or larynx, partial"
+43798,M,5109,ESOPHAGEAL CA/SDA,,Empyema without mention of fistula
+43798,M,2763,ESOPHAGEAL CA/SDA,,Alkalosis
+43798,M,2761,ESOPHAGEAL CA/SDA,,Hyposmolality and/or hyponatremia
+43798,M,40390,ESOPHAGEAL CA/SDA,,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+43798,M,5859,ESOPHAGEAL CA/SDA,,"Chronic kidney disease, unspecified"
+43798,M,25000,ESOPHAGEAL CA/SDA,,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+43798,M,4112,ESOPHAGEAL CA/SDA,,Methicillin resistant Staphylococcus aureus in conditions classified elsewhere and of unspecified site
+43798,M,53081,ESOPHAGEAL CA/SDA,,Esophageal reflux
+43827,F,41041,MI CHF,,"Acute myocardial infarction of other inferior wall, initial episode of care"
+43827,F,42832,MI CHF,,Chronic diastolic heart failure
+43827,F,4160,MI CHF,,Primary pulmonary hypertension
+43827,F,41401,MI CHF,,Coronary atherosclerosis of native coronary artery
+43827,F,4280,MI CHF,,"Congestive heart failure, unspecified"
+43827,F,42731,MI CHF,,Atrial fibrillation
+43827,F,4241,MI CHF,,Aortic valve disorders
+43827,F,36250,MI CHF,,"Macular degeneration (senile), unspecified"
+43827,F,2859,MI CHF,,"Anemia, unspecified"
+43827,F,4019,MI CHF,,Unspecified essential hypertension
+43827,F,53081,MI CHF,,Esophageal reflux
+43827,F,V103,MI CHF,,Personal history of malignant neoplasm of breast
+43827,F,V4571,MI CHF,,Acquired absence of breast and nipple
+43827,F,V8801,MI CHF,,Acquired absence of both cervix and uterus
+43870,F,43491,STROKE/TIA,,"Cerebral artery occlusion, unspecified with cerebral infarction"
+43870,F,51881,STROKE/TIA,,Acute respiratory failure
+43870,F,34290,STROKE/TIA,,"Hemiplegia, unspecified, affecting unspecified side"
+43870,F,5990,STROKE/TIA,,"Urinary tract infection, site not specified"
+43870,F,514,STROKE/TIA,,Pulmonary congestion and hypostasis
+43870,F,2859,STROKE/TIA,,"Anemia, unspecified"
+43870,F,4019,STROKE/TIA,,Unspecified essential hypertension
+43870,F,42731,STROKE/TIA,,Atrial fibrillation
+43870,F,25000,STROKE/TIA,,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+43870,F,2724,STROKE/TIA,,Other and unspecified hyperlipidemia
+43879,F,51881,PLEURAL EFFUSION,,Acute respiratory failure
+43879,F,2762,PLEURAL EFFUSION,,Acidosis
+43879,F,5119,PLEURAL EFFUSION,,Unspecified pleural effusion
+43879,F,E9379,PLEURAL EFFUSION,,Unspecified sedatives and hypnotics causing adverse effects in therapeutic use
+43879,F,7802,PLEURAL EFFUSION,,Syncope and collapse
+43879,F,53081,PLEURAL EFFUSION,,Esophageal reflux
+43879,F,311,PLEURAL EFFUSION,,"Depressive disorder, not elsewhere classified"
+43879,F,V103,PLEURAL EFFUSION,,Personal history of malignant neoplasm of breast
+43881,M,1508,UPPER GI BLEED,,Malignant neoplasm of other specified part of esophagus
+43881,M,53082,UPPER GI BLEED,,Esophageal hemorrhage
+43881,M,5856,UPPER GI BLEED,,End stage renal disease
+43881,M,1985,UPPER GI BLEED,,Secondary malignant neoplasm of bone and bone marrow
+43881,M,1970,UPPER GI BLEED,,Secondary malignant neoplasm of lung
+43881,M,V420,UPPER GI BLEED,,Kidney replaced by transplant
+43881,M,2761,UPPER GI BLEED,,Hyposmolality and/or hyponatremia
+43881,M,56211,UPPER GI BLEED,,Diverticulitis of colon (without mention of hemorrhage)
+43881,M,40391,UPPER GI BLEED,,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease"
+43881,M,1977,UPPER GI BLEED,,"Malignant neoplasm of liver, secondary"
+43881,M,45340,UPPER GI BLEED,,Acute venous embolism and thrombosis of unspecified deep vessels of lower extremity
+43881,M,41519,UPPER GI BLEED,,Other pulmonary embolism and infarction
+43881,M,V1251,UPPER GI BLEED,,Personal history of venous thrombosis and embolism
+43881,M,V5861,UPPER GI BLEED,,Long-term (current) use of anticoagulants
+43881,M,56400,UPPER GI BLEED,,"Constipation, unspecified"
+43881,M,2800,UPPER GI BLEED,,Iron deficiency anemia secondary to blood loss (chronic)
+43881,M,2724,UPPER GI BLEED,,Other and unspecified hyperlipidemia
+43881,M,41519,ACUTE PULMONARY EMBOLISM,,Other pulmonary embolism and infarction
+43881,M,486,ACUTE PULMONARY EMBOLISM,,"Pneumonia, organism unspecified"
+43881,M,5789,ACUTE PULMONARY EMBOLISM,,"Hemorrhage of gastrointestinal tract, unspecified"
+43881,M,1508,ACUTE PULMONARY EMBOLISM,,Malignant neoplasm of other specified part of esophagus
+43881,M,1977,ACUTE PULMONARY EMBOLISM,,"Malignant neoplasm of liver, secondary"
+43881,M,1970,ACUTE PULMONARY EMBOLISM,,Secondary malignant neoplasm of lung
+43881,M,1985,ACUTE PULMONARY EMBOLISM,,Secondary malignant neoplasm of bone and bone marrow
+43881,M,2761,ACUTE PULMONARY EMBOLISM,,Hyposmolality and/or hyponatremia
+43881,M,45340,ACUTE PULMONARY EMBOLISM,,Acute venous embolism and thrombosis of unspecified deep vessels of lower extremity
+43881,M,40391,ACUTE PULMONARY EMBOLISM,,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease"
+43881,M,5856,ACUTE PULMONARY EMBOLISM,,End stage renal disease
+43881,M,V420,ACUTE PULMONARY EMBOLISM,,Kidney replaced by transplant
+43881,M,2724,ACUTE PULMONARY EMBOLISM,,Other and unspecified hyperlipidemia
+43881,M,2749,ACUTE PULMONARY EMBOLISM,,"Gout, unspecified"
+43881,M,71940,ACUTE PULMONARY EMBOLISM,,"Pain in joint, site unspecified"
+43881,M,53190,ACUTE PULMONARY EMBOLISM,,"Gastric ulcer, unspecified as acute or chronic, without mention of hemorrhage or perforation, without mention of obstruction"
+43881,M,32723,ACUTE PULMONARY EMBOLISM,,Obstructive sleep apnea (adult)(pediatric)
+43909,F,486,PNEUMONIA;TELEMETRY,,"Pneumonia, organism unspecified"
+43909,F,1983,PNEUMONIA;TELEMETRY,,Secondary malignant neoplasm of brain and spinal cord
+43909,F,1628,PNEUMONIA;TELEMETRY,,Malignant neoplasm of other parts of bronchus or lung
+43909,F,2536,PNEUMONIA;TELEMETRY,,Other disorders of neurohypophysis
+43909,F,496,PNEUMONIA;TELEMETRY,,"Chronic airway obstruction, not elsewhere classified"
+43909,F,42731,PNEUMONIA;TELEMETRY,,Atrial fibrillation
+43909,F,311,PNEUMONIA;TELEMETRY,,"Depressive disorder, not elsewhere classified"
+43909,F,4589,PNEUMONIA;TELEMETRY,,"Hypotension, unspecified"
+43909,F,7991,PNEUMONIA;TELEMETRY,,Respiratory arrest
+43927,F,41401,CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT /SDA,,Coronary atherosclerosis of native coronary artery
+43927,F,4142,CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT /SDA,,Chronic total occlusion of coronary artery
+43927,F,4139,CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT /SDA,,Other and unspecified angina pectoris
+43927,F,4019,CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT /SDA,,Unspecified essential hypertension
+43927,F,2724,CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT /SDA,,Other and unspecified hyperlipidemia
+43927,F,25000,CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT /SDA,,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+43927,F,43310,CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT /SDA,,Occlusion and stenosis of carotid artery without mention of cerebral infarction
+43927,F,49390,CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT /SDA,,"Asthma, unspecified type, unspecified"
+43927,F,V4582,CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT /SDA,,Percutaneous transluminal coronary angioplasty status
+43927,F,V1301,CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT /SDA,,Personal history of urinary calculi
+43927,F,V1272,CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT /SDA,,Personal history of colonic polyps
+44083,M,1510,ESOPHAGEAL CA/SDA,,Malignant neoplasm of cardia
+44083,M,4019,ESOPHAGEAL CA/SDA,,Unspecified essential hypertension
+44083,M,2724,ESOPHAGEAL CA/SDA,,Other and unspecified hyperlipidemia
+44083,M,5119,SHORTNESS OF BREATH,,Unspecified pleural effusion
+44083,M,4239,SHORTNESS OF BREATH,,Unspecified disease of pericardium
+44083,M,4019,SHORTNESS OF BREATH,,Unspecified essential hypertension
+44083,M,2859,SHORTNESS OF BREATH,,"Anemia, unspecified"
+44083,M,V1003,SHORTNESS OF BREATH,,Personal history of malignant neoplasm of esophagus
+44083,M,4239,PERICARDIAL EFFUSION,,Unspecified disease of pericardium
+44083,M,5119,PERICARDIAL EFFUSION,,Unspecified pleural effusion
+44083,M,4233,PERICARDIAL EFFUSION,,Cardiac tamponade
+44083,M,2859,PERICARDIAL EFFUSION,,"Anemia, unspecified"
+44083,M,V1003,PERICARDIAL EFFUSION,,Personal history of malignant neoplasm of esophagus
+44083,M,4019,PERICARDIAL EFFUSION,,Unspecified essential hypertension
+44154,M,389,ALTERED MENTAL STATUS,,Unspecified septicemia
+44154,M,5070,ALTERED MENTAL STATUS,,Pneumonitis due to inhalation of food or vomitus
+44154,M,99592,ALTERED MENTAL STATUS,,Severe sepsis
+44154,M,42731,ALTERED MENTAL STATUS,,Atrial fibrillation
+44154,M,72400,ALTERED MENTAL STATUS,,"Spinal stenosis, unspecified region"
+44154,M,36250,ALTERED MENTAL STATUS,,"Macular degeneration (senile), unspecified"
+44154,M,71690,ALTERED MENTAL STATUS,,"Arthropathy, unspecified, site unspecified"
+44154,M,4549,ALTERED MENTAL STATUS,,Asymptomatic varicose veins
+44212,F,3811,ACUTE RESPIRATORY DISTRESS SYNDROME;ACUTE RENAL FAILURE,,Methicillin susceptible Staphylococcus aureus septicemia
+44212,F,78552,ACUTE RESPIRATORY DISTRESS SYNDROME;ACUTE RENAL FAILURE,,Septic shock
+44212,F,5845,ACUTE RESPIRATORY DISTRESS SYNDROME;ACUTE RENAL FAILURE,,Acute kidney failure with lesion of tubular necrosis
+44212,F,48241,ACUTE RESPIRATORY DISTRESS SYNDROME;ACUTE RENAL FAILURE,,Methicillin susceptible pneumonia due to Staphylococcus aureus
+44212,F,51881,ACUTE RESPIRATORY DISTRESS SYNDROME;ACUTE RENAL FAILURE,,Acute respiratory failure
+44212,F,5990,ACUTE RESPIRATORY DISTRESS SYNDROME;ACUTE RENAL FAILURE,,"Urinary tract infection, site not specified"
+44212,F,3481,ACUTE RESPIRATORY DISTRESS SYNDROME;ACUTE RENAL FAILURE,,Anoxic brain damage
+44212,F,28731,ACUTE RESPIRATORY DISTRESS SYNDROME;ACUTE RENAL FAILURE,,Immune thrombocytopenic purpura
+44212,F,2760,ACUTE RESPIRATORY DISTRESS SYNDROME;ACUTE RENAL FAILURE,,Hyperosmolality and/or hypernatremia
+44212,F,5566,ACUTE RESPIRATORY DISTRESS SYNDROME;ACUTE RENAL FAILURE,,Universal ulcerative (chronic) colitis
+44212,F,570,ACUTE RESPIRATORY DISTRESS SYNDROME;ACUTE RENAL FAILURE,,Acute and subacute necrosis of liver
+44212,F,5722,ACUTE RESPIRATORY DISTRESS SYNDROME;ACUTE RENAL FAILURE,,Hepatic encephalopathy
+44212,F,78959,ACUTE RESPIRATORY DISTRESS SYNDROME;ACUTE RENAL FAILURE,,Other ascites
+44212,F,452,ACUTE RESPIRATORY DISTRESS SYNDROME;ACUTE RENAL FAILURE,,Portal vein thrombosis
+44212,F,5855,ACUTE RESPIRATORY DISTRESS SYNDROME;ACUTE RENAL FAILURE,,"Chronic kidney disease, Stage V"
+44212,F,40391,ACUTE RESPIRATORY DISTRESS SYNDROME;ACUTE RENAL FAILURE,,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease"
+44212,F,2839,ACUTE RESPIRATORY DISTRESS SYNDROME;ACUTE RENAL FAILURE,,"Acquired hemolytic anemia, unspecified"
+44212,F,5601,ACUTE RESPIRATORY DISTRESS SYNDROME;ACUTE RENAL FAILURE,,Paralytic ileus
+44212,F,99592,ACUTE RESPIRATORY DISTRESS SYNDROME;ACUTE RENAL FAILURE,,Severe sepsis
+44212,F,70703,ACUTE RESPIRATORY DISTRESS SYNDROME;ACUTE RENAL FAILURE,,"Pressure ulcer, lower back"
+44212,F,70723,ACUTE RESPIRATORY DISTRESS SYNDROME;ACUTE RENAL FAILURE,,"Pressure ulcer, stage III"
+44212,F,5711,ACUTE RESPIRATORY DISTRESS SYNDROME;ACUTE RENAL FAILURE,,Acute alcoholic hepatitis
+44212,F,5712,ACUTE RESPIRATORY DISTRESS SYNDROME;ACUTE RENAL FAILURE,,Alcoholic cirrhosis of liver
+44222,M,42781,BRADYCARDIA,,Sinoatrial node dysfunction
+44222,M,5849,BRADYCARDIA,,"Acute kidney failure, unspecified"
+44222,M,E9429,BRADYCARDIA,,Other and unspecified agents primarily affecting the cardiovascular system causing adverse effects in therapeutic use
+44222,M,41401,BRADYCARDIA,,Coronary atherosclerosis of native coronary artery
+44222,M,40390,BRADYCARDIA,,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+44222,M,5853,BRADYCARDIA,,"Chronic kidney disease, Stage III (moderate)"
+44222,M,25060,BRADYCARDIA,,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+44222,M,3572,BRADYCARDIA,,Polyneuropathy in diabetes
+44222,M,2724,BRADYCARDIA,,Other and unspecified hyperlipidemia
+44222,M,3320,BRADYCARDIA,,Paralysis agitans
+44222,M,72400,BRADYCARDIA,,"Spinal stenosis, unspecified region"
+44228,F,3842,CHOLANGITIS,,Septicemia due to escherichia coli [E. coli]
+44228,F,78552,CHOLANGITIS,,Septic shock
+44228,F,486,CHOLANGITIS,,"Pneumonia, organism unspecified"
+44228,F,845,CHOLANGITIS,,Intestinal infection due to Clostridium difficile
+44228,F,1977,CHOLANGITIS,,"Malignant neoplasm of liver, secondary"
+44228,F,1561,CHOLANGITIS,,Malignant neoplasm of extrahepatic bile ducts
+44228,F,1975,CHOLANGITIS,,Secondary malignant neoplasm of large intestine and rectum
+44228,F,45182,CHOLANGITIS,,Phlebitis and thrombophlebitis of superficial veins of upper extremities
+44228,F,99592,CHOLANGITIS,,Severe sepsis
+44228,F,2449,CHOLANGITIS,,Unspecified acquired hypothyroidism
+44228,F,2859,CHOLANGITIS,,"Anemia, unspecified"
